@@ -1,0 +1,732 @@
+Facility Name,Location Address,Location Address2,City,State,Zip Code,County,Region,Phone Number,Owner Name,Owner Type,Activity Desc,Activity Number,Active,East Coordinate,North Coordinate,Accuracy Code,Waste Types,Regulatory Status,Authorization Number,Authorization Issue Date,Expiration Date,Georeference
+Waste Management of New York Port of Albany,100 Boat St,,Albany,NY,12202,Albany,4,5185333305,Waste Management NY,Private,Transfer station - permit,[01T67],Yes,601751,4720216,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Glass;Single Stream;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous),Permit,4-0101-00185/00002,12/01/2016,11/30/2021,"100 Boat St
+Albany, NY 12202
+(42.628023, -73.758778)"
+Waste Management of NY (EWI),21 Gansevoort Street,,Albany,NY,12202,Albany,4,5184634433,Waste Management of NY LLC,Private,Transfer station - permit,[01T70],Yes,602000,4721500,,MSW (Residential/Institutional & Commercial),Permit,4-0101-00283/00001,05/02/2018,05/01/2028,"21 Gansevoort Street
+Albany, NY 12202
+(42.637741, -73.757698)"
+Berne Transfer Station,1809 Helderberg Trail,,Berne,NY,12023,Albany,4,5188720451,Town of Berne,Municipal,Transfer station - registration,[01R20],Yes,569733,4719461,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Corrugated Cardboard;Waste Tires;Electronics,Registration,01R20R,,,"1809 Helderberg Trail
+Berne, NY 12023
+(42.624456, -74.148758)"
+Colonie (T) SWMF,1319 New Loudon road,,Colonie,NY,12047,Albany,4,5187832827,Town of Colonie,Municipal,Transfer station - permit,[01T26],Yes,603609,4740925,1 - No accuracy stated,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Permit,4-0126-00033/00001,04/05/2018,04/04/2028,"1319 New Loudon road
+Colonie, NY 12047
+(42.809404, -73.732954)"
+Colonie Yard Waste Transfer Station,748 Watervliet Shaker Road,,Colonie,NY,12205,Albany,4,,,,Transfer station - registration,[01R27],Yes,599057,4732516,,,,,,,"748 Watervliet Shaker Road
+Colonie, NY 12205"
+BFI Runway Ave Waste TS,136 Sicker Avenue,,Latham,NY,12110,Albany,4,5187857030,Allied Waste Systems of North America,Private,Transfer station - permit,[01T33],Yes,598974,4734048,,Construction & Demolition Debris;Sludge (Industrial);Metals (Ferrous & Non-Ferrous),Permit,4-0126-00020/00003,12/15/2009,04/26/2020,"136 Sicker Avenue
+Latham, NY 12110
+(42.750885, -73.800642)"
+Murphy Rolloff Inc,119 Wade Road,,Latham,NY,12110,Albany,4,5186084358,Michael Evereth,Private,Transfer station - permit,[01T17],Yes,599287,4733451,,Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous),Permit,4-0126-00631/00001,11/10/2011,11/09/2021,"119 Wade Road
+Latham, NY 12110
+(42.746708, -73.786533)"
+Menands Enviromental Solutions LLC,22 Simmons Lane,,Menands,NY,12204,Albany,4,5187857030,Allied Waste of North America,Private,Transfer station - permit,[01T25],Yes,604155,4726220,,MSW (Residential/Institutional & Commercial),Permit,4-0126-00403/00001,02/28/2018,02/27/2028,"22 Simmons Lane
+Menands, NY 12204
+(42.680108, -73.72924)"
+Bethlehem Transfer Station,136 Rupert Road,,Selkirk,NY,12158,Albany,4,5184394955,Town of Bethlehem,Municipal,Transfer station - registration,[01R22],Yes,594196,4710159,,,Registration,4012200009,,,"136 Rupert Road
+Selkirk, NY 12158
+(42.538772, -73.853171)"
+Hauser Trucking,9 Crabapple Lane,,Watervliet,NY,12189,Albany,4,5182716100,Hauser Warehouse and Storage; Inc,Private,Transfer station - registration,[01R05],Yes,605684,4732817,4.1 - Address Matching,Yard Waste,Registration,01R05,03/01/2017,,"9 Crabapple Lane
+Watervliet, NY 12189
+(42.740862, -73.710897)"
+Allegany County Landfill,6006 County Road 48,,Angelica,NY,14709,Allegany,9,5852685400,Allegany County DPW,County,Transfer station - permit,[02T08],Yes,249830,4683221,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous);White Goods,Permit,9-0232-00008/00011,04/24/2013,04/23/2023,"6006 County Road
+Angelica, NY 14709"
+LaForge Transfer Station,3090 County Road 30 (Trapping Brook Road),,Wellsville,NY,14895,Allegany,9,5858089000,Kevin & Virginia LaForge,Private,Transfer station - permit,[02R09],Yes,259868,4667111,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial),Permit,9-0270-00109/00002,05/31/2016,05/30/2021,"3090 County Road 30 (Trapping Brook Road
+Wellsville, NY 14895
+(42.119781, -77.904328)"
+Action Environmental Systems Inc Bronx TS,920 East 132 Street,,Bronx,NY,10454,Bronx,2,9732867100,Action Carting Environmental Services LLC,Private,Transfer station - permit,[03T32],Yes,591858,4516975,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Single Stream;Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics,None,2-6007-00015/00030,06/30/2017,04/22/2020,"920 East 132 Street
+Bronx, NY 10454
+(40.79899, -73.9116)"
+DSNY South Bronx Household Special Waste Drop-Off Site,Foot of Farragut Street,,Bronx,NY,10474,Bronx,2,2124374657,NYC Dep of Sanitation,Municipal,Transfer station - registration,[03RA2],Yes,595061,4517370,,,Registration,03RA2,,,
+Environmental Transload Service LLC,100 Oak Point Avenue,,Bronx,NY,10474,Bronx,2,7183285800,Environmental Transload Service LLC,Private,Transfer station - permit,[03TA1],Yes,593017,4518041,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Permit,2-6007-00882/00001-0,04/25/2014,04/24/2019,"100 Oak Point Avenue
+Bronx, NY 10474"
+IESI NY Corporation (325 Casanova St),325-327 Casanova Street,,Bronx,NY,10474,Bronx,2,2014433000,IESI NY Corporation,Private,Transfer station - permit,[03T48],Yes,593752,4517915,,MSW (Residential/Institutional & Commercial),None,2-6007-00058/00001,03/13/2017,03/13/2022,"325 327 Casanova Street
+Bronx, NY 10474
+(40.807227, -73.888411)"
+Metropolitan Transfer Station,287 Halleck Street,,Bronx,NY,10474,Bronx,2,7185897733,Vincent Verrilli,Private,Transfer station - permit,[03T36],Yes,594464,4517975,,MSW (Residential/Institutional & Commercial);Compost;Metals (Ferrous & Non-Ferrous),None,2-6007-00007/00004,07/10/2020,08/10/2020,"287 Halleck Street
+Bronx, NY 10474
+(40.806731, -73.879659)"
+Tri-State Transfer Associates Inc (Asbestos),1199 Randall Ave,,Bronx,NY,10474,Bronx,2,7186170771,Jaime Baranoff,Private,Transfer station - permit,[03T34],Yes,593559,4518435,,Asbestos (Friable);Asbestos (Non-Friable);Construction & Demolition Debris,None,2-6007-00006/00006,03/29/2017,03/28/2022,"1199 Randall Ave
+Bronx, NY 10474
+(40.811468, -73.890845)"
+WMNY LLC Harlem River Yard,98 Lincoln Avenue,,Bronx,NY,10454,Bronx,2,,Waste Management of NY; LLC,Private,Transfer station - permit,[03T79],Yes,590307,4517929,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,None,2-6007-00159/00009,07/29/2014,07/30/2019,"98 Lincoln Avenue
+Bronx, NY 10454
+(40.807642, -73.929614)"
+A & T Consultants TS,29 Broad Street,,Binghamton,NY,13904,Broome,7,6077243805,Elbert Adams,Private,Transfer station - permit,[04T07],Yes,426499,4664007,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Permit,7-0302-00129/00001,11/05/2019,11/04/2029,"29 Broad Street
+Binghamton, NY 13904
+(42.122488, -75.890086)"
+Binghamton TS (C),13 - 17 1/2 Broad St,,Binghamton,NY,13901,Broome,7,6077727021,City of Binghamton,Municipal,Transfer station - permit,[04T03],Yes,425854,4662128,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Industrial;Waste Tires;Yard Waste,Permit,7-0302-00175/00001,01/01/2016,12/31/2025,"13 17 1 2 Broad St
+Binghamton, NY 13901
+(42.128542, -75.890693)"
+Sunstream Corporation,6 Spring Forest Avenue,,Binghamton,NY,13905,Broome,7,6077244400,Sunstream Corporation,Private,Transfer station - permit,[04T06],Yes,424134,4662479,4.2 - Utilization of GIS and existing spatial data,Asbestos (Friable & Non-Friable);Asbestos (Non-Friable),Permit,7-0302-00080/00006,04/01/2018,03/31/2028,"6 Spring Forest Avenue
+Binghamton, NY 13905
+(42.109462, -75.918094)"
+Adams Transfer Station,521 Main St,,Chenango Bridge,NY,13745,Broome,7,6076484863,Bert Adams,Private,Transfer station - permit,[04T05],Yes,427343,4668978,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Electronics;Metals (Ferrous & Non-Ferrous),Permit,7-0324-00053/00003,03/21/2017,12/31/2027,"521 Main St
+Chenango Bridge, NY 13745
+(42.341297, -75.164505)"
+Suburban Septic and Excavating Service Inc,101 Kutalek Rd.,,Kirkwood,NY,13795,Broome,7,6077753693,Suburban Septic,Private,Transfer station - registration,[04R81],Yes,434012,4654605,,Portable Toilet Waste,Registration,04R81,02/10/2006,,"101 Kutalek Rd
+Kirkwood, NY 13795
+(42.056608, -75.772133)"
+L&R Transfer Station ,11075 Galen Hill Road,,Freedom,NY,14065,Cattaraugus,9,7164923936,Ron Previty,Private,Transfer station - permit,[05R13],Yes,223800,4708559,4.2 - Utilization of GIS and existing spatial data,,Permit,9.0442E+14,09/06/2016,09/05/2021,"11075 Galen Hill Road
+Freedom, NY 14065
+(42.481176, -78.358579)"
+Southern Tier Recycling Center,225 Homer Street,,Olean,NY,14760,Cattaraugus,9,8002273558,Casella Waste Management of NY; Inc.,Private,Transfer station - permit,[05T11],Yes,215606,4666771,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Permit,9-0412-00090/00001,01/13/2016,01/12/2026,"225 Homer Street
+Olean, NY 14760
+(42.101736, -78.439734)"
+Chautauqua Landfill,3889 Towerville Road,,Ellery,NY,14701-9653,Chautauqua,9,7169854785,Chautauqua County,County,Transfer station - permit,[07R22],Yes,143329,4681819,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Plastics;Metals (Ferrous & Non-Ferrous);Corrugated Cardboard;White Goods,Permit,9-0636-00006/00013,10/07/2015,10/06/2025,"3889 Towerville Road
+Ellery, NY 14701-9653
+(42.201451, -79.315205)"
+South County Transfer Station,2570 South Work Street,,Falconer,NY,14733,Chautauqua,9,7166656894,Chautauqua County DPF,County,Transfer station - permit,[07T19],Yes,154000,4670400,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Electronics;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Magazines;Junk Mail;Newspaper;Commingled Plastics,Permit,9.0638E+14,01/25/2018,01/24/2028,"2570 South Work Street
+Falconer, NY 14733
+(42.110782, -79.183653)"
+North County Transfer Station,3688 Webster Road,,Fredonia,NY,14063,Chautauqua,9,7166794413,Chautauqua County DPF,County,Transfer station - permit,[07T01],Yes,145897,4705692,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Electronics;Corrugated Cardboard;Commingled Plastics;Metals (Ferrous & Non-Ferrous);Junk Mail;Magazines;Newspaper,Permit,9.0658E+14,01/25/2018,01/24/2028,"3688 Webster Road
+Fredonia, NY 14063
+(42.421722, -79.305164)"
+Frewsburg Transfer Station,29 Railroad Avenue,,Frewsburg,NY,14738,Chautauqua,9,7165695074,Casella Waste Management of NY Inc,Private,Transfer station - permit,[07T23],Yes,155029,4664219,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Single Stream;Glass;Metals (Ferrous & Non-Ferrous),Permit,9-0624-00057/00001,02/10/2014,02/09/2024,"29 Railroad Avenue
+Frewsburg, NY 14738
+(42.054485, -79.167629)"
+West County Transfer Station,121 Osborne St,,Sherman,NY,14781,Chautauqua,9,7167616565,Chautauqua County DPF,County,Transfer station - permit,[07T18],Yes,120527,4676782,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Electronics;Corrugated Cardboard;Commingled Plastics;Metals (Ferrous & Non-Ferrous);Junk Mail;Magazines;Newspaper;White Goods,Permit,9.0666E+14,02/24/2015,02/23/2025,"121 Osborne St
+Sherman, NY 14781
+(42.154836, -79.594232)"
+Westfield Transfer Station,12 Bourne Street,,Westfield,NY,14787,Chautauqua,9,8002273552,Casella Waste Management NY Inc,Private,Transfer station - permit,[07T17],Yes,122409,4696534,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Permit,9-0672-00040/00004,02/11/2016,07/31/2026,"12 Bourne Street
+Westfield, NY 14787
+(42.329769, -79.583532)"
+Big Flats Drop-off Center,3305 Chambers Road South,,Big Flats,NY,14845,Chemung,8,8002273552,Chemung County,County,Transfer station - registration,[08R01],Yes,339005,4667680,,Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Single Stream,Registration,08R01,10/15/1997,,"3305 Chambers Road South
+Big Flats, NY 14845"
+Lowman Drop-off Center,1488 County Rte 60,,Chemung,NY,14901,Chemung,8,8002273552,Chemung County,County,Transfer station - registration,[08R02],Yes,360811,4655407,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Single Stream,Registration,08R02,10/15/1997,,"1488 County Rte
+Chemung, NY 14901"
+Chemung County Transfer Station,1690 Lake Street,,Elmira,NY,14901,Chemung,8,6077372980,Chemung County,County,Transfer station - permit,[08T05],Yes,350746,4664333,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);White Goods;Waste Tires,Permit,8-0730-00009/00001,10/28/2017,10/27/2027,"1690 Lake Street
+Elmira, NY 14901
+(42.118363, -76.808679)"
+Erin Van Etten Drop-off,1892 Swartwood Road,,Erin,NY,14838,Chemung,8,8002273552,Chemung County,County,Transfer station - registration,[08R03],Yes,362556,4673140,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Single Stream,Registration,08R03,10/15/1997,,"1892 Swartwood Road
+Erin, NY 14838
+(42.207519, -76.645978)"
+Southport Drop-off Center,93 Institution Road,,Pine City,NY,14871,Chemung,8,8002273552,Chemung County,County,Transfer station - registration,[08R04],Yes,349794,4657318,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,08R04,,,"93 Institution Road
+Pine City, NY 14871"
+Adams Wells Transfer Station,NYS Route 12,(near 122 Combes Ln),Norwich,NY,13814,Chenango,7,6073363217,Bert Adams,Private,Transfer station - permit,[09T91],Yes,456836,4713873,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Single Stream,Permit,7-0840-00018-00001,03/03/2014,03/02/2024,"12 Norwich
+NY 13814"
+Covanta B3 Transfer Station,25 Flints Crossing Road,,Canaan,NY,12029,Columbia,4,5187815305,Covanta B3 LLC,Private,Transfer station - permit,[11T50],Yes,630797,4689997,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous),Permit,4-1024-00013/00003,03/11/2010,03/11/2020,"25 Flints Crossing Road
+Canaan, NY 12029
+(42.361372, -73.426213)"
+Chatham Convenience,Rt. 295,,Chatham,NY,12037,Columbia,4,5183922222,Columbia County,County,Transfer station - registration,[11R38],Yes,617870,4693263,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Single Stream,Registration,11R38,,,"295 Chatham
+NY 12037
+(42.615261, -73.699819)"
+Copake Convenience Station,County Route 7A,,Copake,NY,12526,Columbia,4,5183292151,Columbia County,County,Transfer station - registration,[11R32],Yes,619158,4666973,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,11R32,,,"7A Copake
+NY 12526"
+Gallatin Convenience Station,State Route 82,,Gallatin,NY,12502,Columbia,4,5183294846,Columbia County,County,Transfer station - registration,[11R34],Yes,616198,4652650,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,11R34,,,"82 Gallatin
+NY 12502"
+Germantown Convenience Station,Palatine Road,,Germantown,NY,12526,Columbia,4,5185375641,Columbia County,County,Transfer station - registration,[11R36],Yes,591777,4665362,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,11R36,,,
+Greenport TS,51 Newman Road,,Greenport,NY,12534,Columbia,4,5188281442,Columbia County Solid Waste,County,Transfer station - permit,[11T40],Yes,601180,4676735,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);White Goods;Electronics,Permit,4-0140-00007/00005,08/01/2015,07/31/2025,"51 Newman Road
+Greenport, NY 12534
+(42.238947, -73.769675)"
+Carmen Barbato Inc,2778 route 23,,Hillsdale,NY,12529,Columbia,4,5183253331,Carmen Barbato,Private,Transfer station - permit,[11T44],Yes,622700,4670900,1.1 - Obtained from original submission and unverified process,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Glass;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Permit,4-1042-00014/00003,12/10/2002,09/12/2027,"2778 route
+Hillsdale, NY 12529"
+Hillsdale TS,Holm Road,,Hillsdale,NY,12529,Columbia,4,5183253844,Columbia County,County,Transfer station - registration,[11R42],Yes,624269,4674539,,Oil/Gas Drilling Waste;Single Stream,Registration,11R42,,,
+Kinderhook Convenience Station,State Route 9H,,Kinderhook,NY,12106,Columbia,4,5187587562,Columbia County,County,Transfer station - registration,[11R30],Yes,608411,4693198,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,11R30,,,"9H Kinderhook
+NY 12106
+(42.424915, -73.737244)"
+Livingston TS,Co. Rt. 19,,Livingston,NY,12541,Columbia,4,5185376301,Columbia County,County,Transfer station - registration,[11R46],Yes,600378,4664701,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,11R46,,,"19 Livingston
+NY 12541
+(41.928195, -73.910691)"
+Andes (T) Transfer Station,3760 County Highway 1,,Andes,NY,13731,Delaware,4,8456764525,Town of Andes,Municipal,Transfer station - registration,[13R20],Yes,517500,4668156,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Registration,13R20,,,"3760 County Highway
+Andes, NY 13731"
+Bovina TS (T),New Road,,Bovina Center,NY,13740,Delaware,4,6078324245,Town of Bovina,Municipal,Transfer station - registration,[13R22],Yes,521431,4684401,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,13R22,,,
+Davenport TS (T),7920 County Route 10,,Davenport Center,NY,13751,Delaware,4,6072785285,Town of Davenport,Municipal,Transfer station - registration,[13R26],Yes,506895,4699369,,MSW (Residential/Institutional & Commercial),Registration,13R26,,,"7920 County Route
+Davenport Center, NY 13751"
+Colchester (T) TS,13946 State Highway 30,,Downsville,NY,13755,Delaware,4,6073637169,Town of Colchester,Municipal,Transfer station - registration,[13R24],Yes,501455,4657723,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,13R24,07/29/1997,,"13946 State Highway
+Downsville, NY 13755"
+Hancock TS (T),1488 Green Flats Road,,Hancock,NY,13783,Delaware,4,6076373522,Town of Hancock,Municipal,Transfer station - registration,[13R36],Yes,479518,4643728,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Electronics,Registration,13R36,,,"1488 Green Flats Road
+Hancock, NY 13783
+(41.947414, -75.245273)"
+Harpersfield TS,25399 NYS Route 23,,Harpersfield,NY,13786,Delaware,4,6076525060,Town of Harpersfield,Municipal,Transfer station - registration,[13R39],Yes,526935,4698257,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,13r39,,,"25399 NYS Route
+Harpersfield, NY 13786"
+Middletown TS (T),Route 30,,Margaretville,NY,12455,Delaware,4,9145864566,Town of Middletown,Municipal,Transfer station - registration,[13R46],Yes,533298,4671705,,MSW (Residential/Institutional & Commercial),Registration,13R46,,,"30 Margaretville
+NY 12455
+(41.730164, -74.43213)"
+Roxbury TS (T),NYS Route 30,,Roxbury,NY,12474,Delaware,4,6073267641,Town of Roxbury,Municipal,Transfer station - registration,[13R48],Yes,536786,4686287,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,13R48,,,"30 Roxbury
+NY 12474"
+Welsh Sanitation (Town of Amenia),5273â?5275 Route 44,,Amenia,NY,12501,Dutchess,3,,Town of Amenia,Private,Transfer station - registration,[14R21],Yes,619349,4633822,,MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous);Single Stream;Electronics,Registration,14R21,11/09/2012,,"5273 5275 Route
+Amenia, NY 12501"
+Residuals Management Services LLC dba Earthcare,80 Dennings Ave,,Beacon,NY,12508,Dutchess,3,9737646100,Residual Management Services;LLC,Private,Transfer station - permit,[14Z01],Yes,585100,4594200,,Septage;Sewage Treatment Plant Sludge,Permit,3-1302-00028/00003,01/16/2013,01/16/2018,"80 Dennings Ave
+Beacon, NY 12508
+(41.496206, -73.981699)"
+Clinton TS         (T),1215 Centre Road,,Clinton Corners,NY,12514,Dutchess,3,8452665853,Town of Clinton,Municipal,Transfer station - registration,[14R05],Yes,599441,4638889,,Single Stream;MSW (Residential/Institutional & Commercial);Electronics,Registration,14R05,,,"1215 Centre Road
+Clinton Corners, NY 12514
+(41.883684, -73.803823)"
+Watch Hill Holding Corp/Royal Carting Service,409 Rt. 82; PO Box 1209,,Hopewell Junction,NY,12533,Dutchess,3,8458966000,Emil Panichi,,Transfer station - permit,[14T03],Yes,596306,4602468,,Construction & Demolition Debris;Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Sludge (Industrial);Asbestos (Non-Friable);Metals (Ferrous & Non-Ferrous);Concrete;Waste Tires;Compost;Waste Oil (Other);Electronics,Permit,3-1328-00129/00002,03/26/2013,03/26/2018,"409 Rt
+Hopewell Junction, NY 12533"
+LaGrange Waste TS  (T),130 Stringham Road,,LaGrangeville,NY,12540,Dutchess,3,9144522289,Town of LaGrange,Municipal,Transfer station - registration,[14R11],Yes,600056,4613407,,Construction & Demolition Debris;Sludge (Industrial);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Electronics,Registration,14R11,,,"130 Stringham Road
+LaGrangeville, NY 12540
+(41.665386, -73.796439)"
+Pawling TS (T),124-126 River Road,,Pawling,NY,12564,Dutchess,3,8458559380,Town of Pawling,Municipal,Transfer station - registration,[14R17],Yes,616714,4604765,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous),Registration,14R17,,,"124 126 River Road
+Pawling, NY 12564
+(41.58436, -73.594471)"
+Pleasant Valley Transfer Station,24 Sherow Road,,Pleasant Valley,NY,12569,Dutchess,3,8456351005,Town of Pleasant Valley,Municipal,Transfer station - registration,[14R08],Yes,597230,4623756,,,,,,,"24 Sherow Road
+Pleasant Valley, NY 12569
+(41.756353, -73.826552)"
+Milan Disposal Site TS,20 Wilcox Circle,,Red Hook,NY,12571,Dutchess,3,,Town of Milan,Municipal,Transfer station - registration,[14R10],Yes,603960,4644920,,MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous);Single Stream;Electronics,Registration,14R10,,,"20 Wilcox Circle
+Red Hook, NY 12571
+(41.955132, -73.765087)"
+Rhinebeck TS,376 Stone Church Road,,Rhinebeck,NY,12572,Dutchess,3,8457583405,Town of Rhinebeck,Municipal,Transfer station - registration,[14R19],Yes,594632,4646824,,MSW (Residential/Institutional & Commercial);Newspaper;Metals (Ferrous & Non-Ferrous);Commingled Paper & Containers;Electronics,Registration,14R19,,,"376 Stone Church Road
+Rhinebeck, NY 12572
+(41.968654, -73.856643)"
+Wappinger (T) TS,Old Route 9,,Wappingers Falls,NY,12590,Dutchess,3,8452979451,Town of Wappinger,Municipal,Transfer station - registration,[14R06],Yes,591524,4600848,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Newspaper;Wood (Brush/ Branches/ Trees/ Stumps);Waste Tires,Registration,14R06,,,"9 Wappingers Falls
+NY 12590"
+Kejem Properties (Harlem Valley Transfer Station),3 Commerce Drive,,Wingdale,NY,12594,Dutchess,3,8458323828,Emil Panichi,Private,Transfer station - permit,[14T11],Yes,618932,4612424,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Electronics;Emergency Authorization Waste (Storm Debris);Single Stream,Permit,3-1326-00124/00002,05/28/2009,05/27/2019,"3 Commerce Drive
+Wingdale, NY 12594
+(41.656339, -73.572886)"
+Blasdell Transfer Station,3675 Jeffrey Boulevard,,Blasdell,NY,14219,Erie,9,7168243766,,,Transfer station - permit,[15T23],Yes,186421,4744083,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sludge (Industrial);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics;Wood (Chips),Permit,9-1448-00168/00001,10/04/2012,08/19/2021,"3675 Jeffrey Boulevard
+Blasdell, NY 14219
+(42.785267, -78.834636)"
+East Side Transfer Station,793 South Ogden Street,,Buffalo,NY,14206,Erie,9,7169139798,City of Buffalo,Municipal,Transfer station - permit,[15T04],Yes,189661,4754835,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Waste Tires;Single Stream,Permit,9-1402-00567/00011,12/30/2011,12/29/2021,"793 South Ogden Street
+Buffalo, NY 14206
+(42.883586, -78.800419)"
+WMNY Transfer Station,3327 Walden Avenue,,Depew,NY,14043,Erie,9,7166859636,Waste Management of NY; Inc.,Private,Transfer station - permit,[15T24],Yes,199129,4757720,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sludge (Industrial);Single Stream;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Waste Tires,Permit,9-1452-00067/00005,10/30/2015,10/29/2025,"3327 Walden Avenue
+Depew, NY 14043
+(42.913402, -78.687424)"
+Elma Transfer Station,370 Creek Road,,Elma,NY,14059,Erie,9,7166528084,Town of Elma,Municipal,Transfer station - registration,[15R01],Yes,206756,4746715,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Electronics,Registration,15R01,03/03/1994,,"370 Creek Road
+Elma, NY 14059
+(42.816133, -78.586314)"
+Environmental Products & Services of Vermont; Inc.,4429 Walden Avenue,,Lancaster,NY,14086,Erie,9,7165970001,Environmental Products & Services of Vermont; Inc.,Private,Transfer station - permit,[15T32],Yes,205922,4758893,4.2 - Utilization of GIS and existing spatial data,Non-hazardous Waste,Permit,9-1452-00345/00001,06/19/2015,05/17/2025,"4429 Walden Avenue
+Lancaster, NY 14086
+(42.926804, -78.603282)"
+American Recyclers Transfer Station,177 Wales Avenue,,Tonawanda,NY,14151,Erie,9,7166956720,John Battaglia,Private,Transfer station - permit,[15T18],Yes,185580,4769973,4.2 - Utilization of GIS and existing spatial data,Waste Oil (Automotive);Sludge (Industrial);Metals (Ferrous & Non-Ferrous);Electronics,Permit,9-1416-00057/00001,01/28/2010,12/17/2017,"177 Wales Avenue
+Tonawanda, NY 14151
+(43.016562, -78.85955)"
+Chesterfield Transfer Station,Auger Lake Rd,,Chesterfield,NY,12944,Essex,5,5188349042,Essex County,County,Transfer station - registration,[16R39],Yes,619930,4927123,,MSW (Residential/Institutional & Commercial),Registration,16R39,,,
+Westport Transfer Station,Ledge Hill Road,,Elizabethtown,NY,12993,Essex,5,5189624419,Essex County,County,Transfer station - registration,[16R32],Yes,617430,4894623,,MSW (Residential/Institutional & Commercial),Registration,16R32,02/09/1994,,
+Essex-Willsboro Transfer Station,Route 22,,Essex,NY,12936,Essex,5,5189634287,Essex County,Municipal,Transfer station - registration,[16R40],Yes,629430,4907123,,MSW (Residential/Institutional & Commercial),Registration,16R40,,,"22 Essex
+NY 12936
+(44.289882, -73.990467)"
+Keene Transfer Station,Shaffer Road,,Keene,NY,12942,Essex,5,5185764444,Essex County,County,Transfer station - registration,[16R25],Yes,597530,4898822,,MSW (Residential/Institutional & Commercial),Registration,16R25,,,
+North Elba Transfer Station,74 Recycle Circle Lane,,Lake Placid,NY,12946,Essex,5,5185232940,Essex County,Municipal,Transfer station - registration,[16R29],Yes,582630,4902422,,MSW (Residential/Institutional & Commercial),Registration,16R29,02/09/1994,,"74 Recycle Circle Lane
+Lake Placid, NY 12946
+(44.271389, -73.967404)"
+Lewis Transfer Station - Elizabethtown,8181 Route 9,,Lewis,NY,12950,Essex,5,5188736650,Essex County,Municipal,Transfer station - registration,[16R38],Yes,614062,4900800,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,16R38,,,"8181 Route
+Lewis, NY 12950"
+Minerva Transfer Station,437 O'Neil Road,,Minerva,NY,12851,Essex,5,5182512869,Essex County,Municipal,Transfer station - registration,[16R37],Yes,584831,4850223,,MSW (Residential/Institutional & Commercial),Registration,16R37,,,"437 O Neil Road
+Minerva, NY 12851
+(43.799678, -73.945409)"
+Moriah Transfer Station,Joyce Road,,Moriah,NY,12974,Essex,5,5185468631,Essex County,County,Transfer station - registration,[16R27],Yes,618131,4882223,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,16R27,,,
+Newcomb Transfer Station,Hudson River Road,,Newcomb,NY,12852,Essex,5,5185823211,Essex County,County,Transfer station - registration,[16R28],Yes,569531,4868023,,MSW (Residential/Institutional & Commercial),Registration,16R28,,,
+North Hudson Transfer Station,Route 9,,North Hudson,NY,12855,Essex,5,5185327217,Essex County,County,Transfer station - registration,[16R43],Yes,602033,4867685,,MSW (Residential/Institutional & Commercial),Registration,16R43,,,"9 North Hudson
+NY 12855"
+Schroon Transfer Station,Alder Meadow Road,,Schroon,NY,12870,Essex,5,5185327737,Essex County,County,Transfer station - registration,[16R31],Yes,601031,4857023,,MSW (Residential/Institutional & Commercial),Registration,16R31,,,
+St. Armand Transfer Station,River Road,Route 3,St. Armand,NY,12913,Essex,5,5188913189,Essex County,County,Transfer station - registration,[16R42],Yes,572130,4913823,,MSW (Residential/Institutional & Commercial),Registration,16R42,02/09/1994,,
+Ticonderoga Transfer Station,Burn Baughn Road,,Ticonderoga,NY,12883,Essex,5,5185856265,Essex County,County,Transfer station - registration,[16R41],Yes,624731,4862923,,MSW (Residential/Institutional & Commercial),Registration,16R41,02/09/1994,,
+Wilmington Transfer Station,Bonnieview Road,,Wilmington,NY,12997,Essex,5,5189467179,Essex County,County,Transfer station - registration,[16R34],Yes,596330,4921122,,MSW (Residential/Institutional & Commercial),Registration,16R34,02/09/1994,,
+Tupper Lake Transfer Station,131 Big Wolf Road,,Altamont,NY,12986,Franklin,5,5183593350,Franklin County,Municipal,Transfer station - registration,[17R01],Yes,542604,4900600,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Waste Tires,Registration,17R01,,,"131 Big Wolf Road
+Altamont, NY 12986
+(44.258144, -74.466763)"
+Lake Clear Transfer Station,59 Dump Road,,Harrietstown,NY,12945,Franklin,5,5188917218,Franklin County,Municipal,Transfer station - registration,[17R05],Yes,561568,4913963,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Waste Tires,Registration,17R05,,,"59 Dump Road
+Harrietstown, NY 12945
+(44.376785, -74.228423)"
+Malone Transfer Station,326 Brand Road,,Malone,NY,12953,Franklin,5,5184816129,Franklin County,Municipal,Transfer station - registration,[17R06],Yes,554634,4969377,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Waste Tires,Registration,17R06,03/10/2004,,"326 Brand Road
+Malone, NY 12953
+(44.876183, -74.308437)"
+Gloversville Drop Off,58 Beaver Street,,Gloversville,NY,12078,Fulton,5,5187734557,Gloversville DPW,Municipal,Transfer station - registration,[18R08],Yes,553104,4765805,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Wood (Brush/ Branches/ Trees/ Stumps),Registration,18R08,06/22/2006,,"58 Beaver Street
+Gloversville, NY 12078
+(43.042977, -74.348017)"
+Catskill Transfer Station,183 Route 385,,Catskill,NY,12414,Greene,4,5189430341,Greene County,County,Transfer station - permit,[20T55],Yes,593714,4674467,,MSW (Residential/Institutional & Commercial),Permit,4-1926-00109/00001,08/19/2016,08/18/2021,"183 Route
+Catskill, NY 12414"
+Blue Mt Lake Recyclables and SW Collection,Route 30,,Blue Mountain Lake,NY,12847,Hamilton,5,5186485885,Town of Indian Lake,Municipal,Transfer station - registration,[21R04],Yes,545535,4858086,,Construction & Demolition Debris,Registration,21R04,,,"30 Blue Mountain Lake
+NY 12847"
+Hope Solid Waste and Recyclables Collection Site,Route 30,,Hope,NY,12134,Hamilton,5,5189243400,Town of Hope,Municipal,Transfer station - registration,[21R02],Yes,561594,4794365,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Registration,21R02,,,"30 Hope
+NY 12134"
+Hamilton County Transfer Station - Indian Lake,165 Chain Lakes Road,,Indian Lake,NY,12842,Hamilton,5,5186480223,Hamilton County Highway Dept,County,Transfer station - registration,[21R05],Yes,561122,4848758,,Commingled Paper & Containers;Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous);MSW (Residential/Institutional & Commercial),Registration,21R05,,,"165 Chain Lakes Road
+Indian Lake, NY 12842
+(43.788174, -74.23899)"
+Inlet Recyclables Recovery Facility,Limekiln Road,County Route 14,Inlet,NY,13360,Hamilton,5,3153573867,Town of Inlet,Municipal,Transfer station - registration,[21R03],Yes,517259,4842534,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Registration,21R03,,,
+Hamilton County Transfer Station - Lake Pleasant,2297 NYS Route 8,,Lake Pleasant,NY,12108,Hamilton,5,5185483867,Hamilton County,County,Transfer station - registration,[21R06],Yes,544246,4811364,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Wood (Trees/Stumps);Electronics;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Waste Tires,Registration,21R06,,,"2297 NYS Route
+Lake Pleasant, NY 12108"
+Long Lake SW & Recyclables Collection Site,Route 28N,,Long Lake,NY,12847,Hamilton,5,5186243001,Town of Long Lake,Municipal,Transfer station - registration,[21R01],Yes,549836,4869605,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Registration,21R01,,,"28N Long Lake
+NY 12847"
+Raquette Lake Recyclables Collection Site & TS,Antlers Road,,Long Lake,NY,12847,Hamilton,5,5186243088,Town of Long Lake,Municipal,Transfer station - registration,[21R07],Yes,527671,4852191,1 - No accuracy stated,MSW (Residential/Institutional & Commercial),Registration,21R07,,,
+Wells TS and LCD LF,232 Griffin Road,,Wells,NY,12190,Hamilton,5,5189247912,Town of Wells,Municipal,Transfer station - registration,[21R08],Yes,559211,4806968,,,Registration,,,,"232 Griffin Road
+Wells, NY 12190
+(43.415122, -74.268713)"
+Salisbury Transfer Station,2290 State Route 29,,Salisbury (T),NY,13454,Herkimer,6,3154293223,Town of Salisbury,Municipal,Transfer station - registration,[22R04],Yes,515254,4775812,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Glass,Registration,22R04,11/09/2000,,"2290 State Route
+Salisbury (T, NY 13454"
+Adams Transfer Station,County Rt 97,,Adams,NY,13605,Jefferson,6,3152323057,Town of Adams,Municipal,Transfer station - registration,[23R14],Yes,419787,4847745,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Commingled Paper & Containers;Electronics,Registration,23R14,04/25/1994,,"97 Adams
+NY 13605"
+Newberry Transfer Station,Swan Hollow Road,,Alexandria Bay,NY,13607,Jefferson,6,3154829472,Royce Newberry,Private,Transfer station - permit,[23T19],Yes,428607,4909366,,Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous),Permit,6-2222-00291/00003,11/01/2016,10/30/2018,
+Waste Management of NY (Card Rd),22360 Card Road,,Black River,NY,13612,Jefferson,6,3157735697,Waste Management of NY,Private,Transfer station - permit,[23T09],Yes,440476,4871285,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Permit,6-2254-00049/00004,01/19/2017,06/11/2022,"22360 Card Road
+Black River, NY 13612
+(43.991784, -75.743996)"
+Thousand Island Park Transfer Station,Sunrise Ave. Extension,,Thousand Island Park,NY,13692,Jefferson,6,3154822576,Thousand Island Park Corporation,Private,Transfer station - permit,[23T24],Yes,418112,4904840,,Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous),Permit,6-2246-00350/00002,06/01/2015,06/01/2020,
+Watertown Transfer Station,Heinz Road,,Watertown,NY,13601,Jefferson,6,3157860523,Town of Watertown,Municipal,Transfer station - registration,[23R13],Yes,421279,4861559,4.2 - Utilization of GIS and existing spatial data,,Registration,23R13,04/25/1994,,
+Action Environmental Services - Stanley Ave,941 Stanley Ave.,,Brooklyn,NY,11208,Kings,2,7186652367,Action Environmental Systems LLC,Private,Transfer station - permit,[24TB7],Yes,595095,4501980,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,None,2-6105-00227/00003,02/08/2016,02/07/2021,"941 Stanley Ave
+Brooklyn, NY 11208
+(40.663562, -73.874117)"
+CityGreen Organics,105-115 THAMES Street,,Brooklyn,NY,11237,Kings,2,7184561307,,,Transfer station - permit,[24T40],Yes,590531,4506557,,MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous),Permit,2-6104-00096/00002,03/24/2017,04/28/2021,"105 115 THAMES Street
+Brooklyn, NY 11237
+(40.705411, -73.928672)"
+Hi-Tech Resource Recovery Inc,130 Varick Avenue,,Brooklyn,NY,11237,Kings,2,7183865750,Hi-Tech Resource Recovery Inc,Private,Transfer station - permit,[24T73],Yes,590549,4507134,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Wood (Brush/ Branches/ Trees/ Stumps),Permit,2-6104-00012/00004,05/05/2016,05/04/2021,"130 Varick Avenue
+Brooklyn, NY 11237
+(40.710731, -73.928359)"
+IESI NY Corporation -110 120 50th St.,110-120 50th Street,,Brooklyn,NY,11232,Kings,2,7186803733,IESI NY Corporation,Private,Transfer station - permit,[24T95],Yes,582935,4500383,,MSW (Residential/Institutional & Commercial),None,2-6102-00067/00001,04/05/2016,04/04/2021,"110 120 50th Street
+Brooklyn, NY 11232
+(40.649689, -74.017914)"
+IESI NY Corporation 577 Court St,563-577 Court Street,,Brooklyn,NY,11232,Kings,2,7182375596,IESI NY Corporation,Private,Transfer station - permit,[24TA1],Yes,584457,4502886,,MSW (Residential/Institutional & Commercial);Food Scraps,Permit,2-6102-0074/00006,11/08/2017,11/02/2022,"563 577 Court Street
+Brooklyn, NY 11232
+(40.673069, -74.000351)"
+NYCDOS MTS @ HAMILTON AVE.,500 HAMILTON Avenue,,Brooklyn,NY,11232,Kings,2,2128378030,New York City Department of Sanitation,,Transfer station - permit,[24T11],Yes,584605,4502526,,,Permit,2-6102-00010/00013,10/13/2015,11/15/2018,"500 HAMILTON Avenue
+Brooklyn, NY 11232
+(40.669563, -73.997405)"
+NYCDOS SOUTHWEST BROOKLYN MTS,41ST STREET & GRAVESEND BAY,,Brooklyn,NY,11214,Kings,2,2128378030,NYCDOS,Municipal,Transfer station - permit,[24T03],Yes,584932,4493679,,MSW (Residential/Institutional & Commercial),Construction,,07/31/2017,07/31/2022,"41ST STREET
+Brooklyn, NY 11214"
+WMNY Varick 1 Transfer Station,215 Varick Avenue,,Brooklyn,NY,11237,Kings,2,7185335266,Waste Management of NY; LLC,Private,Transfer station - permit,[24T66],Yes,590479,4507435,4.2 - Utilization of GIS and existing spatial data,Yard Waste;MSW (Residential/Institutional & Commercial),Permit,2-6104-00010/00002,10/21/2014,10/21/2019,"215 Varick Avenue
+Brooklyn, NY 11237
+(40.713076, -73.92942)"
+WMNY BQE Transfer Station,475 Scott Avenue,,Brookyn,NY,11222,Kings,2,7185335398,Waste Management of NY,Private,Transfer station - permit,[24T04],Yes,590298,4508891,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);White Goods;Waste Tires,Permit,2-6101-00026/00001,04/28/2016,04/27/2021,"475 Scott Avenue
+Brookyn, NY 11222
+(40.726314, -73.93003)"
+Williamson Services,12988 North Croghan Road,,Natural Bridge,NY,13665,Lewis,6,3156444000,Williamson Services LLC,Private,Transfer station - permit,[25T01],Yes,460526,4878981,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Permit,6-2324-00118/00002,05/31/2018,05/30/2023,"12988 North Croghan Road
+Natural Bridge, NY 13665
+(44.06436, -75.492086)"
+Avon (T) Highway Dept,5390 Agar Road,,Avon,NY,14414,Livingston,8,5852262425,Town of Avon Highway Dept.,Municipal,Transfer station - registration,[26R21],Yes,276825,4749994,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Waste Tires,Registration,26R21,,,"5390 Agar Road
+Avon, NY 14414
+(42.871453, -77.719147)"
+Center Point Transfer Station Inc,119 River Road,,Caledonia,NY,14546,Livingston,8,5858890050,Matthew Loughry,Private,Transfer station - permit,[26T03],Yes,276310,4762426,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream;Metals (Ferrous & Non-Ferrous),Permit,8-2422-00047/00001-0,06/03/2014,07/31/2024,"119 River Road
+Caledonia, NY 14546
+(42.98176, -77.743562)"
+West Sparta TS,8302 Kysorville-Byersville Rd,,Dansville,NY,14437,Livingston,8,5853353138,Town of West Sparta,Municipal,Transfer station - registration,[26R13],Yes,271063,4722424,,Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Registration,26R13,,,"8302 Kysorville-Byersville Rd
+Dansville, NY 14437
+(42.621018, -77.79124)"
+Multi Metal Recycling LLC,4502 York Road,,Leicester,NY,14481,Livingston,8,5853823822,Wayne Scofield,Private,Transfer station - permit,[26T],Yes,263100,4742523,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris,Permit,8-2430-00044/00001,03/28/2018,12/31/2027,"4502 York Road
+Leicester, NY 14481
+(42.798543, -77.896603)"
+Mt Morris TS and Recycling,70 Al Lorenz Drive,,Mt. Morris,NY,14510,Livingston,8,5856584885,Town of Mt. Morris,Municipal,Transfer station - registration,[26R16],Yes,263448,4734625,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Registration,26R16,,,"70 Al Lorenz Drive
+Mt Morris, NY 14510"
+Greece (T) Transfer Station,635 Flynn Road,,Rochester,NY,14612,Monroe,8,5857232376,Town of Greece,Municipal,Transfer station - permit,[28R04],Yes,281127,4792974,1 - No accuracy stated,Asphalt;Wood (Brush/ Branches/ Trees/ Stumps);Metals (Ferrous & Non-Ferrous);Concrete;Clean Fill;Leaves & Grass,Permit,8-2628-00224/00009,05/15/2012,05/20/2022,"635 Flynn Road
+Rochester, NY 14612
+(43.281396, -77.714726)"
+JC Fibers Inc,1779 Mt Read Blvd,,Rochester,NY,14615,Monroe,8,5853427210,Frank Colubriale,Private,Transfer station - permit,[28T14],Yes,283600,4784300,1 - No accuracy stated,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream,Permit,8-2699-00117/00001,08/16/2011,08/15/2021,"1779 Mt Read Blvd
+Rochester, NY 14615
+(43.187516, -77.659593)"
+Amsterdam Transfer Station,1247 Route 5S,,Amsterdam,NY,12010,Montgomery,4,5188435990,Montgomery County,Municipal,Transfer station - permit,[29T05],Yes,566819,4752541,,Construction & Demolition Debris;Sludge (Industrial);MSW (Residential/Institutional & Commercial);Sewage Treatment Plant Sludge;Asbestos (Non-Friable);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);Electronics;Metals (Ferrous & Non-Ferrous),Permit,4-2701-00031/00004,01/01/2019,12/31/2028,"1247 Route 5 S
+Amsterdam, NY 12010"
+Charleston Transfer Station,480 Corbin Hill Road,,Charleston,NY,12166,Montgomery,4,5189225867,Town of Charleston,Municipal,Transfer station - registration,[29R24],Yes,550573,4740689,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,None,29R24,,,"480 Corbin Hill Road
+Charleston, NY 12166
+(42.81676, -74.38092)"
+Western TS,4583 Route 5S,,Sprakers,NY,12166,Montgomery,4,5186734884,,,Transfer station - permit,[29T07],Yes,543566,4749115,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sewage Treatment Plant Sludge;Emergency Authorization Waste (Storm Debris);Asbestos (Non-Friable);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);Electronics;Metals (Ferrous & Non-Ferrous),Permit,4-2736-00014/00002,02/17/2015,01/31/2025,"4583 Route 5 S
+Sprakers, NY 12166"
+Floral Park Transfer Station,One Floral Blvd,,Floral Park,NY,11001,Nassau,1,5163266300,Village of Floral Park,Municipal,Transfer station - registration,[30M47R],Yes,609560,4509131,,Land Clearing Debris;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Electronics,Registration,30M47R,11/22/1996,,"One Floral Blvd
+Floral Park, NY 11001"
+Freeport Transfer Station,175 Albany Avenue,,Freeport,NY,11520,Nassau,1,5163772289,Incorporated Village of Freeport,Municipal,Transfer station - registration,[30R01R],Yes,621065,4501111,4.2 - Utilization of GIS and existing spatial data,Clean Fill;MSW (Residential/Institutional & Commercial);Street Sweepings;Construction & Demolition Debris,Registration,30R01R,06/02/1995,,"175 Albany Avenue
+Freeport, NY 11520
+(40.649802, -73.568426)"
+Winters Bros Waste Systems of LI LLC Glen Cove Facility,100 Morris Street,,Glen Cove,NY,11542,Nassau,1,5166711911,,,Transfer station - permit,[30T29],Yes,614814,4523971,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Brick;Concrete;Construction & Demolition Debris;Wood (Brush/ Branches/ Trees/ Stumps),Permit,1-2805-00105/00001,02/18/2015,02/17/2020,"100 Morris Street
+Glen Cove, NY 11542
+(40.857848, -73.63994)"
+Great Neck Transfer Station,137 Steamboat Rd,,Great Neck,NY,11024,Nassau,1,5164822000,Village of Great Neck,Municipal,Transfer station - registration,[30T14R],Yes,605850,4518243,,Street Sweepings;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Asphalt;Emergency Authorization Waste (Storm Debris);Construction & Demolition Debris,Registration,30T14R,11/18/1996,,"137 Steamboat Rd
+Great Neck, NY 11024
+(40.808237, -73.748605)"
+Hempstead (V) Transfer Station,470 Milburn Avenue,,Hempstead,NY,11550,Nassau,1,5164893400,Village of Hempstead,Municipal,Transfer station - registration,[30T10117],Yes,617604,4504668,,Yard Waste;Construction & Demolition Debris,Registration,30T10117,09/23/2019,09/23/2024,"470 Milburn Avenue
+Hempstead, NY 11550
+(40.684558, -73.607492)"
+Kings Point DPW Storage Facility,Kings Point Road,,Kings Point,NY,11024,Nassau,1,5164827872,Village of Kings Point,Municipal,Transfer station - registration,[30R08R],Yes,605155,4519150,4.3 - Utilization of Digital Orthophoto Quads,Yard Waste;Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Street Sweepings;Emergency Authorization Waste (Storm Debris);Wood (Brush/ Branches/ Trees/ Stumps),Registration,30R08R,09/12/2008,,
+Sanitary District #1,2 Bay  Boulevard,,Lawrence,NY,11559,Nassau,1,5162395600,Sanitary District #1,Municipal,Transfer station - permit,[30T91],Yes,606300,4498200,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Yard Waste;Construction & Demolition Debris;Single Stream;Newspaper;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Waste Tires,Permit,1-2820-01335/00002,09/10/2015,09/10/2020,"2 Bay Boulevard
+Lawrence, NY 11559
+(40.628395, -73.737276)"
+Long Beach Recycling Transfer Station,One City Hall,,Long Beach,NY,11561,Nassau,1,5164311000,City of Long Beach,Municipal,Transfer station - registration,[30M32R],Yes,613388,4494472,,Concrete;Asphalt;Wood (Clean);Commingled Paper & Containers;Yard Waste;Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sludge (Industrial);Metals (Ferrous & Non-Ferrous);Electronics;Corrugated Cardboard;White Goods,Registration,30T10112,12/15/2018,12/14/2021,"One City
+Long Beach, NY 11561"
+Malverne (V) Transfer Station,Pinebrook Lane and Ocean Ave,,Malverne,NY,11565,Nassau,1,5165997421,Village of Malverne,Municipal,Transfer station - registration,[30R03R],Yes,613018,4503393,1 - No accuracy stated,Yard Waste;Wood (Brush/ Branches/ Trees/ Stumps);Wood (Trees/Stumps);Wood (Chips),Registration,30R03R,03/30/2000,,"Pinebrook Lane
+Malverne, NY 11565"
+Merrick Transfer Station,1600 Merrick Road,,Merrick,NY,11566,Nassau,1,5163784210,Town of Hempstead Department of Sanitation,Municipal,Transfer station - permit,[30T10],Yes,621467,4501204,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);White Goods;Concrete;Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous);Waste Tires;Yard Waste,Permit,1-2820-01318/00004,01/05/2017,01/04/2022,"1600 Merrick Road
+Merrick, NY 11566
+(40.65383, -73.561568)"
+Oceanside Transfer Station,3737 Long Beach Road,,Oceanside,NY,11572,Nassau,1,5163784210,Town of Hempstead Department of Sanitation,Municipal,Transfer station - permit,[30T19],Yes,615142,4497328,4.2 - Utilization of GIS and existing spatial data,Yard Waste;White Goods;Concrete;Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous),Permit,1-2820-00435/00008,02/05/2019,02/04/2024,"3737 Long Beach Road
+Oceanside, NY 11572
+(40.61914, -73.640917)"
+S&M Prompt Rubbish Removal Service Inc,7 Linden Place,,Oceanside,NY,11572,Nassau,1,5167642950,Salvatore Mancuso,Private,Transfer station - permit,[30T100],Yes,616017,4500846,1 - No accuracy stated,Construction & Demolition Debris;Waste Tires;Commingled Paper & Containers,Permit,1-2820-04784/00001,07/21/2014,04/12/2019,"7 Linden Place
+Oceanside, NY 11572
+(40.822127, -73.627846)"
+Old Westbury Transfer Station,1 Store Hill Road,,Old Westbury,NY,11568,Nassau,1,5166260800,Village of Old Westbury,Municipal,Transfer station - registration,[30T18R],Yes,619217,4515798,,Yard Waste;Construction & Demolition Debris;Wood (Brush/ Branches/ Trees/ Stumps),Registration,30M11R,05/03/1994,,"1 Store Hill Road
+Old Westbury, NY 11568
+(40.780202, -73.605402)"
+Plandome Village Transfer Station,Stonytown Road,,Plandome,NY,11030,Nassau,1,5163652757,Village of Plandome,Municipal,Transfer station - registration,[30T20R],Yes,610306,4518546,,Yard Waste;Street Sweepings;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Leaves & Grass,Registration,30T20R,12/14/1999,,
+North Hempstead Transfer Station,999 West Shore Rd.,,Port Washington,NY,11050,Nassau,1,5167674634,Town of North Hempstead,Municipal,Transfer station - permit,[30T28],Yes,613233,4519923,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;Yard Waste;MSW (Residential/Institutional & Commercial);Street Sweepings;Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Metals (Ferrous & Non-Ferrous);Corrugated Cardboard;Newspaper;Electronics;Food Scraps,Permit,1-2822-00466/00003,04/23/2015,04/23/2020,"999 West Shore Rd
+Port Washington, NY 11050
+(40.809924, -73.655389)"
+Rockville Centre D.P.W.,10 Sunrise Highway,,Rockville Centre,NY,11570,Nassau,1,5166789267,Incorporated Village of Rockville Centre,Municipal,Transfer station - permit,[30T08],Yes,614292,4501275,4.2 - Utilization of GIS and existing spatial data,Wood (Chips);Yard Waste;Metals (Ferrous & Non-Ferrous);Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Street Sweepings;Emergency Authorization Waste (Storm Debris),Permit,1-2820-00752/00003,02/03/2016,02/02/2021,"10 Sunrise Highway
+Rockville Centre, NY 11570
+(40.656961, -73.656711)"
+Valley Stream Transfer Station,175 Arlington Avenue,,Valley Stream,NY,11580,Nassau,1,5168258108,Incorporated Village of Valley Stream,Municipal,Transfer station - permit,[30T04],Yes,608520,4517214,4.2 - Utilization of GIS and existing spatial data,Yard Waste;MSW (Residential/Institutional & Commercial);Waste Tires;Metals (Ferrous & Non-Ferrous);Commingled Paper & Containers;Construction & Demolition Debris;Glass;Wood (Brush/ Branches/ Trees/ Stumps);Concrete;Magazines;Newspaper;Office Paper;Corrugated Cardboard;Commingled Plastics;Single Stream,Permit,1-2820-00884/00003,12/16/2016,12/15/2021,"175 Arlington Avenue
+Valley Stream, NY 11580
+(40.676826, -73.719042)"
+Action Trucking Company,3010 Burns Ave,,Wantagh,NY,11793,Nassau,1,5167813000,Ralph Pantony,Private,Transfer station - permit,[30T11],Yes,625119,4503392,,Water (Waste);Sludge (Industrial),Permit, 1-2820-01378/00003 ,06/05/2018,12/11/2022,"3010 Burns Ave
+Wantagh, NY 11793
+(40.672536, -73.51995)"
+Omni Recycling of Westbury Inc,7 Portland Avenue,,Westbury,NY,11590,Nassau,1,5163335741,Anthony Core,Private,Transfer station - permit,[30M10],Yes,620156,4512755,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Concrete;Soil (Clean);Wood (Chips);Metals (Ferrous & Non-Ferrous);Waste Tires;Construction & Demolition Debris;Commingled Paper & Containers;Yard Waste;Newspaper;Office Paper;Glass;Non-recyclable Scrap Plastic;Container Glass,Permit,1-2822-00487/00001,06/13/2012,06/12/2017,"7 Portland Avenue
+Westbury, NY 11590
+(40.756489, -73.577475)"
+Vigliotti Recycling Corp Yard Waste Transfer Facility,100 Urban Avenue,,Westbury,NY,11590,Nassau,1,5163346600,Vigliotti Recycling Corp.,Private,Transfer station - permit,[30M17],Yes,621300,4512900,4.3 - Utilization of Digital Orthophoto Quads,Yard Waste;Wood (Chips);Source Separated Organic Waste,Permit,1-2822-00464/00002,08/28/2015,08/27/2020,"100 Urban Avenue
+Westbury, NY 11590
+(40.758552, -73.563452)"
+Westbury Transfer Station,900 Dover Street,,Westbury,NY,11590,Nassau,1,5169976850,Village of Westbury,Municipal,Transfer station - registration,[30R02R],Yes,619840,4512889,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;Commingled Paper & Containers;Yard Waste;Metals (Ferrous & Non-Ferrous);Street Sweepings;Electronics;Wood (Brush/ Branches/ Trees/ Stumps);Leaves & Grass,Registration,30R02R,10/19/1999,,"900 Dover Street
+Westbury, NY 11590"
+DSNY Pike Slip Household Special Waste Dropoff Facility,74 Pike Slip,,New York,NY,10002,New York,2,2124374657,NYC Dept of Sanitation,Municipal,Transfer station - registration,[31R24],Yes,585112,4507242,1 - No accuracy stated,Waste Oil (Other);Waste Tires,Registration,31R24,11/18/2015,,"74 Pike
+New York, NY 10002"
+NYCDOS EAST 91ST ST. MTS,E 91ST STREET  (91ST ST. & EAST RIVER),,New York,NY,10128,New York,2,2128378030,,,Transfer station - permit,[31T02],Yes,589239,4514721,,,Permit,2-6204-00007/00013,11/06/2015,11/05/2025,"E 91ST STREET (91ST ST
+New York, NY 10128"
+NYCDOS West 59th Street MTS,West 59th Street & Westside Highway,,New York,NY,10023,New York,2,2129776821,NYCDOS,Municipal,Transfer station - permit,[31T04],Yes,584951,4514023,,Commingled Paper & Containers,Permit,2-6202-00005/00017,05/01/2014,04/30/2019,"West 59th Street
+New York, NY 10023"
+Covanta Environmental Solutions - Niagara; LLC,8335 Quarry Road,,Niagara,NY,14304,Niagara,9,7162985297,Covanta Environmental Solutions; LLC,Private,Transfer station - permit,[32T06],Yes,177083,4782240,4.2 - Utilization of GIS and existing spatial data,Sludge (Industrial);Petroleum Contaminated Soil;Construction & Demolition Debris;Commingled Paper & Containers,Permit,9-2930-00012/00002,01/09/2015,04/21/2025,"8335 Quarry Road
+Niagara, NY 14304
+(43.124295, -78.968978)"
+Camden Transfer Station,#2 Nichols Lane,,Camden,NY,13316,Oneida,6,3152452590,Village of Camden,Municipal,Transfer station - registration,[33R13],Yes,439517,4798415,4.3 - Utilization of Digital Orthophoto Quads,,Registration,33R13,07/01/1994,,"2 Nichols Lane
+Camden, NY 13316
+(43.332134, -75.744801)"
+Deerfield (T) TS,6892 State Route 8,,Deerfield,NY,13502,Oneida,6,3158267014,Town of Deerfield,Municipal,Transfer station - registration,[33R15],Yes,488104,4779385,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);White Goods,Registration,33R15,01/16/2004,,"6892 State Route
+Deerfield, NY 13502"
+Floyd Transfer Station,7430 Floyd Camroden Road,,Floyd (T),NY,13440,Oneida,6,3158656364,Town of Floyd,Municipal,Transfer station - registration,[33R08],Yes,472690,4785845,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Waste Tires;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Metals (Ferrous & Non-Ferrous);White Goods;Electronics,Registration,33R08,10/30/2000,,"7430 Floyd Camroden Road
+Floyd (T, NY 13440
+(43.223579, -75.337145)"
+Forestport TS White Lake Road,1190 Bear Creek Rd.,,Forestport,NY,13338,Oneida,6,3153922801,Town of Forestport,Municipal,Transfer station - registration,[33R16],Yes,483998,4809062,1 - No accuracy stated,,Registration,33R16,02/17/2002,,"1190 Bear Creek Rd
+Forestport, NY 13338"
+Kirkland Transfer Station,3699 State Rte 12B,,Kirkland (T),NY,13323,Oneida,6,3158535082,Town of Kirkland,Municipal,Transfer station - registration,[33R09],Yes,468139,4765505,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Waste Tires;Yard Waste,Registration,33R09,11/20/2000,,"3699 State Rte
+Kirkland (T, NY 13323"
+Oriskany Falls Transfer Station,100 Mill Street,,Oriskany Falls,NY,13425,Oneida,6,3158217275,Village of Oriskany Falls,Municipal,Transfer station - registration,[33R20],Yes,461218,4756582,4.3 - Utilization of Digital Orthophoto Quads,Sewage Treatment Plant Sludge,Registration,33R20,02/17/2002,,"100 Mill Street
+Oriskany Falls, NY 13425"
+Oneida-Herkimer Western Transfer Station ,575 Perimeter Road,,Rome (C),NY,13440,Oneida,6,3153390288,Oneida Herkimer SWMA,Municipal,Transfer station - permit,[33T02],Yes,469000,4783400,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;Bypass Waste (Unprocessible/Processible) ;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Single Stream;Waste Tires;Metals (Ferrous & Non-Ferrous);White Goods,Permit,6-3013-00029/00014,07/01/2015,06/30/2020,"575 Perimeter Road
+Rome (C, NY 13440"
+Sherrill (C) Transfer Station,210 Elmwood Place,,Sherrill,NY,13461,Oneida,6,3153630370,City of Sherrill,Municipal,Transfer station - registration,[33R07],Yes,451585,4769972,4 - GIS Assisted,Construction & Demolition Debris;Waste Tires;Metals (Ferrous & Non-Ferrous);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps),Registration,33R07,04/01/2001,,"210 Elmwood Place
+Sherrill, NY 13461
+(43.080603, -75.593231)"
+Trenton Transfer Station,State Route 12,224 Veteran's Way,Trenton (T),NY,13304,Oneida,6,3158962615,Town of Trenton,Municipal,Transfer station - registration,[33R02],Yes,484637,4789620,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;Sludge (Industrial);Metals (Ferrous & Non-Ferrous);Single Stream;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Commingled Plastics;Electronics,Registration,33R02,03/19/2001,,"12 Trenton
+T, NY 13304"
+Ley Creek TS,5158 Ley Creek Drive,,Liverpool,NY,13088,Onondaga,7,3154532866,Onondaga County Resource Recovery Agency,County,Transfer station - permit,[34T71],Yes,405370,4771305,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Waste Tires,Permit,7-3148-00048/00003,03/03/2014,03/02/2024,"5158 Ley Creek Drive
+Liverpool, NY 13088"
+Environmental Products & Services of Vermont Inc,532 State Fair Boulevard,,Syracuse,NY,13204,Onondaga,7,3154710305,Environmental Products & Services Inc,Private,Transfer station - permit,[34T75],Yes,404200,4768400,,Asbestos (Friable);Industrial;Sludge (Industrial);Construction & Demolition Debris;Oil/Gas Drilling Waste;Petroleum Contaminated Soil;Asbestos (Non-Friable);Metals (Ferrous & Non-Ferrous),Permit,7-3115-00193/00009,10/12/2017,10/11/2027,"532 State Fair Boulevard
+Syracuse, NY 13204
+(43.059631, -76.183057)"
+Bristol Rural Transfer Station (T),3901 County Road 2,,Bloomfield,NY,14424,Ontario,8,5852292400,Town of Bristol,Municipal,Transfer station - registration,[35R01],Yes,301900,4745300,1 - No accuracy stated,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Magazines;Newspaper;Office Paper;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Registration,35R01,08/11/1997,,"3901 County Road
+Bloomfield, NY 14424"
+Canandaigua (T) Transfer Station #1,5440 Routes 5 & 20 West,,Canandaigua,NY,14424,Ontario,8,5853943300,Town of Canandaigua,Municipal,Transfer station - registration,[35R13],Yes,310950,4750200,1 - No accuracy stated,Waste Tires;Construction & Demolition Debris;Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous),Registration,35R13,07/16/1997,,"5440 Routes
+Canandaigua, NY 14424"
+Geneva (T) Rural Transfer,32 White Springs Road,,Geneva,NY,14456,Ontario,8,3157896727,Town of Geneva,Municipal,Transfer station - registration,[35R16],Yes,335700,4745800,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Registration,35R16,12/03/1997,,"32 White Springs Road
+Geneva, NY 14456
+(42.8565, -76.999821)"
+Gorham (T) Rural Transfer,3478 Lake to Lake Road,,Gorham,NY,14461,Ontario,8,5855265777,Town of Gorham,Municipal,Transfer station - registration,[35R05],Yes,321400,4742000,1 - No accuracy stated,,Registration,35R05,05/06/1994,,"3478 Lake to Lake Road
+Gorham, NY 14461"
+Richmond (T) Rural Transfer,8690 Main Street,,Honeoye,NY,14471,Ontario,8,5852295757,Town of Richmond,Municipal,Transfer station - registration,[35R09],Yes,294300,4740400,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Yard Waste;Compost;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous),Registration,35R09,08/12/1997,,"8690 Main Street
+Honeoye, NY 14471
+(42.789725, -77.514348)"
+Hopewell (T) Rural Transfer,2716 County Rd #47,,Hopewell,NY,14424,Ontario,8,5853943850,Town of Hopewell,Municipal,Transfer station - registration,[35R17],Yes,321600,4751800,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Single Stream;Metals (Ferrous & Non-Ferrous);Electronics,Registration,35R17,07/09/1997,,"2716 County Rd
+Hopewell, NY 14424
+(42.905671, -77.118876)"
+Naples Rural Transfer (V) ,Italy Valley Rd,,Naples,NY,14512,Ontario,8,5853742435,Village of Naples,Municipal,Transfer station - registration,[35R08],Yes,303800,4718350,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Single Stream;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Corrugated Cardboard,Registration,35R08,03/06/1995,,
+Phelps (V) Transfer,1342 State Route 96,,Phelps,NY,14532,Ontario,8,3155483882,Village of Phelps,Municipal,Transfer station - registration,[35R0009],Yes,332682,4758285,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Single Stream,Registration,35R0009,03/07/2019,03/06/2024,"1342 State Route
+Phelps, NY 14532"
+Seneca (T) Rural Transfer,3671 County Road 5,,Seneca,NY,14561,Ontario,8,8002273552,Casella Waste Management of NY; Inc,Municipal,Transfer station - registration,[35R03],Yes,330300,4746300,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,35R03,06/03/1994,,"3671 County Road
+Seneca, NY 14561"
+South Bristol Rural Transfer (T),Middlebrook Road,,South Bristol,NY,14512,Ontario,8,5853746341,Town of South Bristol,Municipal,Transfer station - registration,[35R02],Yes,303450,4732700,1 - No accuracy stated,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial),Registration,35R02,07/03/1997,,
+Victor Rural Transfer (T),60 Rawson road,,Victor,NY,14564,Ontario,8,5857425094,Town of Victor,Municipal,Transfer station - registration,[35R11],Yes,302700,4761400,1 - No accuracy stated,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Oil/Gas Drilling Waste;Commingled Paper & Containers;Single Stream;Corrugated Cardboard;Newspaper;Metals (Ferrous & Non-Ferrous);White Goods;Commingled Plastics;Electronics;Waste Tires,Registration,35R11,07/11/1997,,"60 Rawson road
+Victor, NY 14564
+(42.980974, -77.418205)"
+IWS Goshen Transfer Station (Northern),95 Hartley Road,,Goshen,NY,10924,Orange,3,8452941555,Interstate Waste Services,Private,Transfer station - permit,[36T07],Yes,552487,4584355,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Permit,3-3330-00094/00001,09/26/2019,09/25/2024,"95 Hartley Road
+Goshen, NY 10924
+(41.404213, -74.37546)"
+Orange County Transfer Station #1 (New Hampton),21 Training Center Lane,,Goshen,NY,10924,Orange,3,8453741901,Orange County,County,Transfer station - permit,[36T08],Yes,550009,4582556,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Permit,3-3330-00185/00001,12/14/2007,12/13/2017,"21 Training Center Lane
+Goshen, NY 10924
+(41.39529, -74.398119)"
+Orange County Transfer Station #2 (Newburgh),NYS Rt 17K,9 Orr Road,Newburgh,NY,12550,Orange,3,8453741901,Orange County,County,Transfer station - permit,[36T01],Yes,577332,4594911,,,Consent Order,,,,"17K Newburgh
+NY 12550
+(41.471968, -73.550679)"
+Orange County Transfer Station #2 (Newburgh CDA),9 Orr Avenue,,Newburgh,NY,12550,Orange,3,8453741901,Orange County,County,Transfer station - permit,[36T09],Yes,577332,4594911,1 - No accuracy stated,MSW (Residential/Institutional & Commercial);Single Stream;Magazines;Metals (Ferrous & Non-Ferrous);Waste Tires;Waste Oil (Other);Electronics;Commingled Paper & Containers;Construction & Demolition Debris,Permit,3-3346-00069/00005,11/27/2018,11/26/2023,"9 Orr Avenue
+Newburgh, NY 12550
+(41.504699, -74.08036)"
+West Point Transfer Station,667-A Ruger Road IMML-PWE 3rd Floor Mail Rm,,West Point,NY,10996,Orange,3,8459388000,US Army Garrison West Point,Federal,Transfer station - permit,[36T02],Yes,583508,4581766,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Sewage Treatment Plant Sludge;Waste Tires;Metals (Ferrous & Non-Ferrous),Permit,3-3336-00063/00001,07/31/2012,08/01/2017,"667-A Ruger Road
+West Point, NY 10996
+(41.394317, -73.959055)"
+Waste Recovery Enterprises Inc,122 Valley View Road,,Unadilla,NY,13849,Otsego,4,6075632616,Denton Reed,Private,Transfer station - permit,[39T55],Yes,466595,4685459,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream;Metals (Ferrous & Non-Ferrous),,4-3662-00002/00007,01/27/2011,01/26/2021,"122 Valley View Road
+Unadilla, NY 13849
+(42.160154, -75.198306)"
+Stuart W Bates Inc,36 Starr Ridge Road,,Brewster,NY,10509,Putnam,3,8452798952,Mary Ann Bates,Private,Transfer station - permit,[40T04],Yes,617724,4582945,,Septage;Sewage Treatment Plant Sludge,Permit,3-3730-00150/00004,08/06/2014,08/05/2019,"36 Starr Ridge Road
+Brewster, NY 10509
+(41.38915, -73.593918)"
+Tyndall Septic Systems Inc,15 Independent Way,,Brewster,NY,10509,Putnam,3,8452798809,E. Patrick Tyndall,Private,Transfer station - permit,[40T07],Yes,615348,4587738,,Septage;Sewage Treatment Plant Sludge,Permit,3-3373-00215/00003,11/30/2018,11/29/2023,"15 Independent Way
+Brewster, NY 10509
+(41.415879, -73.625547)"
+J Mantovi Excavating Inc dba Mahopac Septic,485 Kennicut Hill Road,,Mahopac,NY,10541,Putnam,3,8456284526,Joseph Mantovi,Private,Transfer station - permit,[40T06],Yes,606281,4580047,,Septage;Sewage Treatment Plant Sludge,Permit,3-3720-00094/00005,08/14/2012,03/31/2018,"485 Kennicut Hill Road
+Mahopac, NY 10541
+(41.366331, -73.730259)"
+DSNY North Shore Household Special Waste Drop-Off Facility,120-15 31st Avenue,,College Point,NY,11354,Queens,2,2124374668,NYC Dept of Sanitation,Municipal,Transfer station - registration,[41RC0],Yes,597262,4513987,1 - No accuracy stated,Waste Oil (Other);Waste Tires,Registration,41RC0,02/21/2017,,"120 15 31st Avenue
+College Point, NY 11354"
+NYCDOS-NORTH SHORE MTS,31 AVE & FLUSHING BAY,,College Point,NY,11354,Queens,2,2128378030,NYC Department of Sanitation,Municipal,Transfer station - permit,[41T01],Yes,597307,4513857,,MSW (Residential/Institutional & Commercial),Permit,2-6302-00007/00019,06/21/2017,06/22/2022,"31 AVE
+College Point, NY 11354"
+Tully Environmental Inc Flushing,127-20 34th Avenue,,Flushing,NY,11368,Queens,2,7184465001,Tully Environmental Inc,Private,Transfer station - permit,[41T95],Yes,597700,4512800,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous),None,2-6302-00259/00005,10/07/2019,10/06/2024,"127 20 34th Avenue
+Flushing, NY 11368"
+Jamaica Recycling (Liberty),94-29 165th Street,,Jamaica,NY,11433,Queens,2,7187397224,Michael Bellino,Private,Transfer station - permit,[41T30],Yes,602056,4506483,,Petroleum Contaminated Soil;MSW (Residential/Institutional & Commercial);Industrial,None,2-6307-00126/00005,05/14/2015,05/13/2020,"94 29 165th Street
+Jamaica, NY 11433"
+Regal Recycling Inc,172-06 Douglas Avenue,,Jamaica,NY,11433,Queens,2,7185239330,Regal Recycling Company Inc,Private,Transfer station - permit,[41T49],Yes,602523,4506701,,MSW (Residential/Institutional & Commercial);Food Scraps;Yard Waste;Corrugated Cardboard,Permit,2-6307-00008/00007,06/18/2013,06/18/2018,"172 06 Douglas Avenue
+Jamaica, NY 11433"
+WMNY Review Transfer Station,38-22 Review Avenue,,Long Island City,NY,11101,Queens,2,7187520323,Waste Management of NY; LLC,Private,Transfer station - permit,[41T23],Yes,589826,4509592,,MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous),None,2-6304-00029,11/03/2017,11/02/2022,"38 22 Review Avenue
+Long Island City, NY 11101"
+Hoosick Falls Transfer Station (V),Walnut St,,Hoosick Falls,NY,12090,Rensselaer,4,5186867431,Village of Hoosick Falls,Municipal,Transfer station - registration,[42R28],Yes,634306,4752927,,Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous);Waste Tires;Single Stream;Electronics,Registration,42R28,,,
+Pittstown Transfer Station (T),2500 New York Roue 67,,Johnsonville,NY,12094,Rensselaer,4,5187534420,Town of Pittstown,Municipal,Transfer station - registration,[42R36],Yes,619835,4747619,,Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous);Waste Tires;Single Stream,Registration,42R36,,,"2500 New
+Johnsonville, NY 12094"
+Nassau Transfer Station (T),599 Central nassau Road,,Nassau,NY,12123,Rensselaer,4,5187662844,Town of Nassau,Municipal,Transfer station - registration,[42R30],Yes,618661,4712301,,,Registration,42R30,,,"599 Central nassau Road
+Nassau, NY 12123"
+Waste Management of NY (Poestenkill),Routes 351 & 66,,Poestenkill,NY,12140,Rensselaer,4,8455333305,Waste Management of NY,Private,Transfer station - permit,[42T100],Yes,616558,4724474,,Construction & Demolition Debris,Permit,4.3838E+14,10/10/2007,05/10/2027,"66 Poestenkill
+NY 12140"
+County Waste Transfer Corp. - Troy TS,799 Burden Ave,,Troy,NY,12180,Rensselaer,4,5182668990,County Waste Transfer Corp,Private,Transfer station - permit,[42T01],Yes,606743,4728753,,,None,4-3817-00111/00004,03/28/2018,03/27/2023,"799 Burden Ave
+Troy, NY 12180
+(42.703828, -73.696448)"
+DSNY Muldoon Ave Household Special Waste Drop-Off Facility,Muldoon Aveneu,,Staten Island,NY,10312,Richmond,2,7183177885,NYC Dept of Sanitation,Municipal,Transfer station - registration,[43M49],Yes,568226,4491263,,Waste Tires;Waste Oil (Other),Registration,43M49,11/18/2016,,
+NYCDOS Staten Island Transfer Station,600 West Service Road,,Staten Island,NY,10314,Richmond,2,7189671400,NYCDOS,Municipal,Transfer station - permit,[43T33],Yes,569097,4495352,,MSW (Residential/Institutional & Commercial),Permit,,11/06/2017,11/02/2022,"600 West Service Road
+Staten Island, NY 10314"
+IWS Chestnut Ridge Transfer Station,560 Chestnut Ridge Rd.,,Chestnut Ridge,NY,10977,Rockland,3,8452680400,Ron Benson (IWS),Private,Transfer station - permit,[44T03],Yes,580096,4549844,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers,Permit,3-3926-00055/00009,04/04/2011,01/30/2014,"560 Chestnut Ridge Rd
+Chestnut Ridge, NY 10977
+(41.09654, -74.047958)"
+IWS Crossroads Transfer Station,331 Rt. 17S.,,Hillburn,NY,10931,Rockland,3,8453693111,IWS Transfer Systems of NY Inc.,Private,Transfer station - permit,[44T09],Yes,569440,4553345,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous),Permit,3-3926-00550/00001,02/01/2013,08/11/2016,"331 Rt 17 S
+Hillburn, NY 10931
+(41.128942, -74.172161)"
+Rockland County SWMA Ramapo (Hillburn) TS,50 Baler Boulevard & Torne Valley Rd,,Hillburn,NY,10931,Rockland,3,8457532240,Rockland County SWMA,County,Transfer station - permit,[44T02],Yes,570900,4555600,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;White Goods;Waste Tires;Metals (Ferrous & Non-Ferrous),Permit,3-3926-00118/00009,03/25/2013,03/25/2020,"50 Baler Boulevard & Torne Valley Rd
+Hillburn, NY 10931"
+Rockland County SWMA Haverstraw (Bowline) TS,200 Beach Road,,West Haverstraw,NY,10993,Rockland,3,8454291823,Rockland County SWMA,County,Transfer station - permit,[44T07],Yes,586654,4562150,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Metals (Ferrous & Non-Ferrous);White Goods;Waste Tires,Permit,3-3922-00096/00002,03/25/2013,03/25/2020,"200 Beach Road
+West Haverstraw, NY 10993
+(41.208412, -73.970849)"
+Rockland County SWMA Clarkstown Transfer Station,166 South Route 303,,West Nyack,NY,10994,Rockland,3,8453580759,Rockland County SWMA,County,Transfer station - permit,[44T06],Yes,588081,4549362,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Asphalt;Concrete;White Goods;Metals (Ferrous & Non-Ferrous),Permit,3-3920-00152/00004,03/25/2015,03/24/2020,"166 South Route
+West Nyack, NY 10994"
+Seneca Meadows Inc (West Nyack TS),183 Western Highway,,West Nyack,NY,10994,Rockland,3,8453588151,Seneca Meadows; Inc.,Private,Transfer station - permit,[44T04],Yes,587379,4548354,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Emergency Authorization Waste (Storm Debris);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Wood (Brush/ Branches/ Trees/ Stumps),Permit,3-3920-00093/00002,02/26/2013,02/26/2019,"183 Western Highway
+West Nyack, NY 10994
+(41.083917, -73.962293)"
+Milton Transfer Station,503 Geyser Road,,Ballston Spa,NY,12020,Saratoga,5,5188859220,Town of Milton,Municipal,Transfer station - registration,[46R25],Yes,593613,4766504,4.3 - Utilization of Digital Orthophoto Quads,Land Clearing Debris;Wood (Brush/ Branches/ Trees/ Stumps),Registration,46R25,03/24/2003,,"503 Geyser Road
+Ballston Spa, NY 12020
+(43.044841, -73.85306)"
+Day Recycling Center,92 Bovee Road,,Day,NY,12835,Saratoga,5,5186962406,Town of Day,Municipal,Transfer station - registration,[46R24],Yes,579979,4796067,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Magazines;Corrugated Cardboard;Newspaper;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Wood (Brush/ Branches/ Trees/ Stumps);Commingled Plastics,Registration,46M07,01/07/1998,,"92 Bovee Road
+Day, NY 12835
+(43.313227, -74.014229)"
+Hadley Transfer Station/Recycling Center,4059 North Shore Road,,Hadley,NY,12835,Saratoga,5,5186963414,Town of Hadley,Municipal,Transfer station - registration,[46R10],Yes,592871,4796713,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Registration,46R10,03/23/1995,,"4059 North Shore Road
+Hadley, NY 12835
+(43.316281, -73.855936)"
+County Waste & Recycling Services - Halfmoon,1927 Route 9,,Halfmoon,NY,12065,Saratoga,5,5188777007,County Waste & Recycling Services; Inc.,Private,Transfer station - permit,[46W05],Yes,600200,4751000,,MSW (Residential/Institutional & Commercial);Waste Tires;Commingled Paper & Containers;Single Stream,Permit,5-4138-00127/00001,08/02/2011,08/01/2021,"1927 Route
+Halfmoon, NY 12065"
+Halfmoon Transfer Station,322 Route 146,,Halfmoon,NY,12065,Saratoga,5,5186643127,Town of Halfmoon,Municipal,Transfer station - registration,[46R04],Yes,603665,4746632,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Waste Oil (Other);Commingled Paper & Containers;Newspaper;Metals (Ferrous & Non-Ferrous);Waste Tires;Electronics,Registration,46R04,01/25/1994,,"322 Route
+Halfmoon, NY 12065"
+Schenectady (City) Transfer Station,Weaver Street,,Schenectady,NY,12305,Schenectady,4,5183825144,City of Schenectady,Municipal,Transfer station - permit,[47T01],Yes,585889,4739723,1.1 - Obtained from original submission and unverified process,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream,Permit,4-4215-00028/00002,12/15/2014,05/31/2020,
+Schoharie Transfer Station,2805 Rt. 7,,Howes Cave,NY,12092,Schoharie,4,5182968856,Casella Waste Management of NY Inc,Municipal,Transfer station - permit,[48T01],Yes,547892,4725787,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sewage Treatment Plant Sludge;Emergency Authorization Waste (Storm Debris);Sludge (Industrial);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);Electronics;Metals (Ferrous & Non-Ferrous),Permit,4-4326-00054/00001,10/16/2014,07/31/2020,"2805 Rt
+Howes Cave, NY 12092"
+Wright TS (T),105A School Street,,Schoharie,NY,12157,Schoharie,4,5188729726,Town of Wright,Municipal,Transfer station - registration,[48R50],Yes,562708,4723333,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers,Registration,48R50,,,"105A School Street
+Schoharie, NY 12157
+(42.661897, -74.235895)"
+Diliberto Disposal,4481 Ball Diamond Road,,Hector,NY,14841,Schuyler,8,6075467484,Joel Diliberto,Private,Transfer station - registration,[49R10],Yes,350974,4708693,,MSW (Residential/Institutional & Commercial),Registration,49R10,03/01/2013,,"4481 Ball Diamond Road
+Hector, NY 14841
+(42.513938, -76.814057)"
+B&H Rail Transfer Station,417 Victory Highway,,Painted Post,NY,14870,Steuben,8,5853462090,B&H Rail Corporation,Private,Transfer station - permit,[51T05],Yes,323826,4671590,,Construction & Demolition Debris,Permit,8-4642-00151/00001,03/18/2015,03/17/2025,"417 Victory Highway
+Painted Post, NY 14870
+(42.176074, -77.122482)"
+Morristown (V) Transfer Station,137 High St,,Morristown,NY,13664,St. Lawrence,6,3153754400,Village of Morristown,Municipal,Transfer station - registration,[45R25],Yes,448922,4937396,,Metals (Ferrous & Non-Ferrous),Registration,45R25,05/20/2015,,"137 High St
+Morristown, NY 13664
+(44.588515, -75.644127)"
+Hampton Septic Services; Inc.,36 Bunker Hill Road,,Amagansett,NY,11930,Suffolk,1,6312677515,Victor Depietro,Private,Transfer station - permit,[52R42],Yes,742317,4540437,4.3 - Utilization of Digital Orthophoto Quads,Septage,Permit,1-4724-02182/00001,11/01/2017,10/31/2022,"36 Bunker Hill Road
+Amagansett, NY 11930
+(40.978989, -72.120435)"
+Amityville Department of Public Works,80 Sterling Place,,Amityville,NY,11701,Suffolk,1,6317892200,Village of Amityville Attn: Village Clerk,Municipal,Transfer station - registration,[52R26R],Yes,633462,4504620,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;Yard Waste;Leaves & Grass,Exempt,52R26R,03/15/2005,,"80 Sterling Place
+Amityville, NY 11701
+(40.681709, -73.420539)"
+National Waste Disposal Corp,9 Lincoln Ave,,Bayshore,NY,11706,Suffolk,1,6312420300,National Waste Disposal Corp,Private,Transfer station - permit,[52T29],Yes,644718,4514705,,MSW (Residential/Institutional & Commercial),Permit,1-4728-00937/00004,10/31/2013,10/30/2018,"9 Lincoln Ave
+Bayshore, NY 11706
+(40.770402, -73.285356)"
+Tire Recycling Services LLC,135 South Second St.,,Bayshore,NY,11706,Suffolk,1,6315861165,Try Recycling Services LLC,Private,Transfer station - permit,[52W54],Yes,644373,4514368,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Wood (Brush/ Branches/ Trees/ Stumps),Permit,1-4728-01451/00001,07/01/2017,06/30/2022,"135 South Second St
+Bayshore, NY 11706
+(40.767305, -73.289231)"
+Winters Bros Recycling of LI LLC  formerly D&T Paper Co,1590 Lakeland Ave,,Bohemia,NY,11716,Suffolk,1,6312442684,Winters Bros. of Long Island; LLC,Private,Transfer station - permit,[52T113],Yes,659249,4516409,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Newspaper;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Permit,1-4728/00930/00002,05/05/2016,05/04/2021,"1590 Lakeland Ave
+Bohemia, NY 11716
+(40.782213, -73.111874)"
+Park Line Asphalt Maintenance,1877 Montauk Hwy,,Brookhaven,NY,11719,Suffolk,1,6312864726,Richard Mailand & Robert Mailand,Private,Transfer station - permit,[52R11],Yes,674362,4515950,4.2 - Utilization of GIS and existing spatial data,Street Sweepings;Asphalt;Brick;Concrete;Soil (Clean);Storm Drain & Catch Basin,Permit,1-4722-06190/00001,07/22/2019,07/21/2024,"1877 Montauk Hwy
+Brookhaven, NY 11719
+(40.775608, -72.934457)"
+North Fork Sanitation Inc,8475 Cox Lane,,Cutchogue,NY,11935,Suffolk,1,6317347221,Joanne Schelin,Private,Transfer station - permit,[52T63],Yes,709912,4545565,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;Concrete;Metals (Ferrous & Non-Ferrous);Corrugated Cardboard;Commingled Paper & Containers;Wood (Unadulterated),Permit,1-4738-00899/00001,09/29/2017,09/28/2022,"8475 Cox Lane
+Cutchogue, NY 11935
+(41.034102, -72.502964)"
+Peconic Recycling & Transfer Corp,560 Commerce Drive,,Cutchogue,NY,11935,Suffolk,1,,Anthony DiVello,Private,Transfer station - permit,[52T120],Yes,709500,4544700,,MSW (Residential/Institutional & Commercial),Permit,1-4738-03697/00001,08/18/2016,08/17/2021,"560 Commerce Drive
+Cutchogue, NY 11935
+(41.025691, -72.502491)"
+Southold Town Transfer Station,6155 Cox Lane,,Cutchogue,NY,11935,Suffolk,1,6317347685,Town of Southold,Municipal,Transfer station - permit,[52T92],Yes,710472,4545365,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Corrugated Cardboard;Waste Oil (Other);Waste Tires;Clean Fill;Metals (Ferrous & Non-Ferrous);Junk Mail;Magazines;Newspaper;Office Paper;Glass;White Goods;Commingled Plastics;Electronics,Permit,1-4738-02967/00001,12/03/2015,12/02/2020,"6155 Cox Lane
+Cutchogue, NY 11935
+(41.032877, -72.498897)"
+Tully Environmental Inc d/b/a Clearbrook,972  Nicolls Road,,Deer Park,NY,11729,Suffolk,1,6315860002,Tully Environmental Inc.,Private,Transfer station - permit,[52T09],Yes,642920,4514486,4.2 - Utilization of GIS and existing spatial data,Sewage Treatment Plant Sludge;Grit;Storm Drain & Catch Basin;Grease Trap Waste;Non-Hazardous Liquid;Non-hazardous Waste,Permit,1-4720-00317/00004,10/16/2015,10/15/2020,"972 Nicolls Road
+Deer Park, NY 11729
+(40.768947, -73.309092)"
+East Hampton Recycling Center,260 Springs Fireplace Road,,East Hampton,NY,11937,Suffolk,1,6313247191,Town of East Hampton,Municipal,Transfer station - permit,[52T91],Yes,738122,4541592,4.2 - Utilization of GIS and existing spatial data,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Newspaper;White Goods;Electronics;Waste Tires,Permit,1-4724-00127/00004,06/23/2015,02/17/2020,"260 Springs Fireplace Road
+East Hampton, NY 11937
+(40.987904, -72.172333)"
+East Northport Landfill,101 Town Line Rd,,East Northport,NY,11731,Suffolk,1,6313513187,Town of Huntington,Municipal,Transfer station - registration,[52R28R],Yes,643495,4527903,4.3 - Utilization of Digital Orthophoto Quads,Yard Waste,Registration,52R28R,,,"101 Town Line Rd
+East Northport, NY 11731
+(40.880333, -73.286591)"
+NYAR Coastal Distribution Rail Transfer,1633 New Highway,,Farmingdale,NY,11735,Suffolk,1,6317562000,Tunnel Hill; Partners; LP,Private,Transfer station - permit,[52T118],Yes,633927,4511488,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris,Permit,1-4720-03667/00001,06/19/2015,06/18/2020,"1633 New Highway
+Farmingdale, NY 11735
+(40.74469, -73.413806)"
+Hampton Bays Transfer Station (Landfill Site),30 Jackson Avenue,,Hampton Bays,NY,11946,Suffolk,1,6317285078,Town of Southampton,Municipal,Transfer station - registration,[52R06R],Yes,707449,4528874,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Yard Waste;Corrugated Cardboard;Commingled Plastics;Electronics;Waste Oil (Other),Registration,52R06R,01/05/1996,,"30 Jackson Avenue
+Hampton Bays, NY 11946
+(40.889146, -72.539847)"
+Islip Multi-Purpose Recycling Facility,1155 Lincoln Avenue,,Holbrook,NY,11741,Suffolk,1,6315953421,Islip Resource Recovery Agency,Municipal,Transfer station - permit,[52M11],Yes,661707,4515955,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris,Permit,1-4728-00701-00003,08/18/2016,08/16/2021,"1155 Lincoln Avenue
+Holbrook, NY 11741
+(40.778479, -73.08386)"
+Winters Bros Waste Systems LI LLC Holtsville TS,971 Waverly Ave,,Holtsville,NY,11742,Suffolk,1,5169370900,Progressive Waste Solutions of LI Inc,Private,Transfer station - permit,[52T83],Yes,665082,4519686,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Electronics;Corrugated Cardboard;Commingled Plastics;Wood (Unadulterated Pallets),Permit,1-4722-00699/00002,11/06/2019,11/05/2024,"971 Waverly Ave
+Holtsville, NY 11742
+(40.812052, -73.044312)"
+Lloyd Harbor (Incorporated Village of) ,32 Middle Hollow Road,,Huntington,NY,11743,Suffolk,1,6315498880,Incorporated Village of Lloyd Harbor,Municipal,Transfer station - registration,[52R29R],Yes,629886,4527339,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Metals (Ferrous & Non-Ferrous);White Goods,Registration,52R29R,02/23/2009,,"32 Middle Hollow Road
+Huntington, NY 11743
+(40.886078, -73.459084)"
+Jet Paper Stock Corp TS,228 Blydenburgh Road,,Islandia,NY,11749,Suffolk,1,6312347100,Patricia DiMatteo,Private,Transfer station - permit,[52M07],Yes,653272,4518747,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Corrugated Cardboard;Newspaper;Office Paper;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics,Permit,1-4728-00720/00001,10/31/2019,10/30/2024,"228 Blydenburgh Road
+Islandia, NY 11749"
+Smithtown Kings Park Facility,300 Old Northport Road,,Kings Park,NY,11754,Suffolk,1,6312696600,Town of Smithtown,Municipal,Transfer station - registration,[52W150R],Yes,648667,4525864,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;Street Sweepings;Yard Waste,Registration,52W150R,05/10/2010,,"300 Old Northport Road
+Kings Park, NY 11754
+(40.877243, -73.282608)"
+Smithtown Municipal Services Facility,85 Old Northport Rd,,Kings Park,NY,11754,Suffolk,1,6312696600,Town of Smithtown,Municipal,Transfer station - permit,[52M41],Yes,648019,4525386,4.3 - Utilization of Digital Orthophoto Quads,Yard Waste;Wood (Brush/ Branches/ Trees/ Stumps);Construction & Demolition Debris;Yard Waste,Application,1-4734-01810/00002,09/23/2015,09/22/2020,"85 Old Northport Rd
+Kings Park, NY 11754
+(40.873531, -73.274069)"
+Winters Bros. Recycling of LI; Inc. - Kings Park Facility,499 Lawrence Rd.,,Kings Park,NY,11754,Suffolk,1,6313685533,Winters Bros. Recycling of LI; Inc.,Private,Transfer station - permit,[52M09],Yes,647700,4525800,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Office Paper;Metals (Ferrous & Non-Ferrous);Wood (Brush/ Branches/ Trees/ Stumps);Concrete;Waste Tires;Corrugated Cardboard,None,1-4734-00299/00005,01/03/2017,03/09/2020,"499 Lawrence Rd
+Kings Park, NY 11754
+(40.866897, -73.248039)"
+Clear Flo Technologies Inc,1110 A Route 109,,Lindenhurst,NY,11757,Suffolk,1,6319567600,Steve Macchio,Private,Transfer station - permit,[52TP0273],Yes,635100,4508500,,Water (Waste);Grease Trap Waste;Landfill Leachate;Biosolids,Permit,1-4720-02934/00001,11/18/2016,11/17/2021,"1110 A Route
+Lindenhurst, NY 11757"
+One World Recycling LLC,685 North Queens Avenue,,Lindenhurst,NY,11757,Suffolk,1,6318880600,One World Recycling; LLC,Private,Transfer station - permit,[52M37],Yes,637892,4507314,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Emergency Authorization Waste (Storm Debris);Metals (Ferrous & Non-Ferrous);Wood (Brush/ Branches/ Trees/ Stumps);Concrete,Permit,1-4720-01004/00006,09/19/2016,09/18/2021,"685 North Queens Avenue
+Lindenhurst, NY 11757
+(40.705213, -73.367475)"
+Russell Reid Lindenhurst Waste Transfer Station,660 Muncy Street,,Lindenhurst,NY,11757,Suffolk,1,6315394658,,,Transfer station - permit,[52T125],Yes,639079,4506529,,,Permit,1-4720-04041/00001,08/01/2014,07/31/2019,"660 Muncy Street
+Lindenhurst, NY 11757
+(40.697484, -73.353787)"
+North Sea Landfill & Transfer Station,1370 Majors Path,,North Sea,NY,11968,Suffolk,1,6312835210,Town of Southampton,Municipal,Transfer station - registration,[52R02R],Yes,718244,4532287,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics;Waste Oil (Other);Waste Tires,Registration,52R02R,09/09/1999,,"1370 Majors Path
+North Sea, NY 11968
+(40.933672, -72.399156)"
+Patchogue Municipal Garage (Incorporated Village of),216 Waverly Ave.,,Patchogue,NY,11772,Suffolk,1,6314754300,Village of Patchogue,Municipal,Transfer station - registration,[52R27R],Yes,666433,4515346,4.3 - Utilization of Digital Orthophoto Quads,White Goods;Construction & Demolition Debris;Leaves & Grass;Wood (Brush/ Branches/ Trees/ Stumps);Concrete;Yard Waste;Electronics;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics,Registration,52R27R,10/11/2006,,"216 Waverly Ave
+Patchogue, NY 11772
+(40.772273, -73.027788)"
+Waste Sorting Corp,2065 Pond Road,,Ronkonkoma,NY,11779,Suffolk,1,6319811332,Kenneth Goetz,Private,Transfer station - permit,[52T57],Yes,658846,4517530,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Wood (Trees/Stumps);Concrete,Permit,1-4728-00760/00002,02/23/2015,02/22/2020,"2065 Pond Road
+Ronkonkoma, NY 11779
+(40.793383, -73.117694)"
+Sag Harbor Transfer Station,1404 Bridge Hampton-Sag Harbor Turnpike,,Sag Harbor,NY,11963,Suffolk,1,6319253097,Town of Southampton,Municipal,Transfer station - registration,[52R99R],Yes,730753,4540761,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Waste Oil (Automotive);Corrugated Cardboard;Commingled Plastics;Waste Oil (Other),Registration,52R99R,09/09/1994,,"1404 Bridge Hampton-Sag Harbor Turnpike
+Sag Harbor, NY 11963
+(40.97618, -72.302061)"
+Dale Transfer Corp,129 Dale Street,,West Babylon,NY,11704,Suffolk,1,5163511879,Dale Transfer Corp.,Private,Transfer station - permit,[52W126],Yes,635700,4510300,,,Permit,1-4720-03277/00001,10/26/2015,10/26/2020,"129 Dale Street
+West Babylon, NY 11704
+(40.733009, -73.391208)"
+Omni Recycling of Babylon Inc,114 Alder Street,,West Babylon,NY,11704,Suffolk,1,6316941694,Omni Recycling of Babylon Inc,Private,Transfer station - permit,[52M19],Yes,635466,4510228,4.3 - Utilization of Digital Orthophoto Quads,Waste Tires;MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Newspaper;Commingled Plastics;Electronics,None,14720-00643/00002-0,,04/14/2001,"114 Alder Street
+West Babylon, NY 11704
+(40.731886, -73.395643)"
+Paragon Recycling & Transfer Corp,35 Dale Steet,,West Babylon,NY,11704,Suffolk,1,6312491639,Paragon Recycling & Transfer Corp,Private,Transfer station - permit,[52T46],Yes,635999,4510103,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Asbestos (Non-Friable);Oil/Gas Drilling Waste;Commingled Paper & Containers;Junk Mail;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Yard Waste;Newspaper,Permit,1-4720-00581/00002,12/16/2016,12/15/2021,"35 Dale
+West Babylon, NY 11704
+(40.730429, -73.389874)"
+Winters Bros Waste Systems LI LLC - 19 Nancy Babylon,19 Nancy Street,,West Babylon,NY,11704,Suffolk,1,6314917270,Winters Bros Waste Systems LI; LLC,Private,Transfer station - permit,[52T51],Yes,637300,4510700,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Asbestos (Non-Friable);Glass;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics,Permit,1-4720-00634/00007,05/18/2017,05/17/2022,"19 Nancy Street
+West Babylon, NY 11704
+(40.735644, -73.374227)"
+Westhampton Transfer Station,66 Old Country Road,,Westhampton,NY,11977,Suffolk,1,6312885236,Town of Southampton,Municipal,Transfer station - registration,[52R05R],Yes,695994,4522237,4.2 - Utilization of GIS and existing spatial data,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Commingled Plastics;Waste Oil (Other),Registration,52R05R,12/31/1996,,"66 Old Country Road
+Westhampton, NY 11977
+(40.82683, -72.674996)"
+Great Gardens LLC,445 Horseblock Road,,Yaphank,NY,11980,Suffolk,1,6312897312,Great Gardens LLC,Private,Transfer station - permit,[52T114],Yes,675400,4518900,4 - GIS Assisted,Yard Waste;Wood (Brush/ Branches/ Trees/ Stumps);Wood (Unadulterated);Yard Waste,Permit,1-4722-03647/00001,01/09/2017,10/23/2021,"445 Horseblock Road
+Yaphank, NY 11980
+(40.800247, -72.920251)"
+Paumanok Environmental,88 Old Dock Road,,Yaphank,NY,11980,Suffolk,1,6317755900,Stanley Lomangino,Private,Transfer station - permit,[52W151],Yes,673424,4519761,,MSW (Residential/Institutional & Commercial),Permit,1-4722-05676-00001,09/09/2014,09/08/2019,"88 Old Dock Road
+Yaphank, NY 11980
+(40.811325, -72.943821)"
+Winters Bros Waste Systems of LI LLC Yaphank TS,82A Old Dock Road,,Yaphank,NY,11980,Suffolk,1,,Progressive Waste Solutions of LI Inc,Private,Transfer station - permit,[52M13],Yes,673500,4520100,4 - GIS Assisted,MSW (Residential/Institutional & Commercial),Permit,1-4722-00765/00004,,06/15/2014,"82A Old Dock Road
+Yaphank, NY 11980
+(40.811956, -72.943546)"
+Sullivan County TS/MRF Monticello,132 Landfill Drive,,Monticello,NY,12701,Sullivan,3,8458070261,Sullivan County,County,Transfer station - permit,[53T01],Yes,527902,4610407,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Single Stream;Waste Tires;Corrugated Cardboard;Newspaper;Metals (Ferrous & Non-Ferrous);Electronics,Permit,3-4846-00079/00031,07/21/2011,05/06/2020,"132 Landfill Drive
+Monticello, NY 12701"
+Lang Industries Inc,67 Arena Court,,Narrowsburg,NY,12764,Sullivan,3,8452523000,Edward Lang,Private,Transfer station - permit,[53T09],Yes,497992,4604705,,Septage;Sewage Treatment Plant Sludge,Permit,3-4848-00033/000020,02/16/2005,12/31/2010,"67 Arena Court
+Narrowsburg, NY 12764
+(41.596571, -75.026093)"
+Southern Tier Recyclers Apalachin,5730 State Route 434,,Apalachin,NY,13732,Tioga,7,6072580339,Robert Taylor,Private,Transfer station - permit,[54T03],Yes,403257,4659907,4 - GIS Assisted,MSW (Residential/Institutional & Commercial),Application,7-4930-00252/00001,12/13/2017,03/18/2024,"5730 State Route
+Apalachin, NY 13732"
+Barton TS (Tioga Management Waste Facility),1216 Route 17C,,Barton,NY,13734,Tioga,7,6075658130,Robert Taylor,Private,Transfer station - permit,[54T94],Yes,378434,4654769,4.2 - Utilization of GIS and existing spatial data,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Waste Tires;Single Stream;Electronics;Metals (Ferrous & Non-Ferrous),Permit,,06/10/2014,06/09/2024,"1216 Route
+Barton, NY 13734"
+Taylor Transfer Station Owego,352 Glenmary Drive,,Owego,NY,13827,Tioga,7,6076876710,Robert Taylor,Private,Transfer station - permit,[54T02],Yes,392976,4661606,3.1 - Sportsman Hand-Held Unit (w/ Selective Availability on),MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Waste Tires;Metals (Ferrous & Non-Ferrous),Permit,7-4936-00023/00001,09/27/2016,09/29/2026,"352 Glenmary Drive
+Owego, NY 13827
+(42.100279, -76.294566)"
+Tompkins County Recycling and SW Center,160 Commercial Ave.,,Ithaca,NY,14850,Tompkins,7,6072732307,Tompkins County SWM Division,Municipal,Transfer station - permit,[55T01],Yes,375326,4698801,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial);Single Stream;Wood (Brush/ Branches/ Trees/ Stumps);Food Scraps;Corrugated Cardboard;Junk Mail;Office Paper;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics;Yard Waste;Waste Tires,Permit,7-5007-00073/00001,09/01/2019,08/31/2029,"160 Commercial Ave
+Ithaca, NY 14850
+(42.42424, -76.517909)"
+Rochester            (T),100 Airport Road,,Accord,NY,12404,Ulster,3,8456265273,Town of Rochester,Municipal,Transfer station - registration,[56R08],Yes,565385,4628915,,,Registration,56R08,,,"100 Airport Road
+Accord, NY 12404
+(41.80865, -74.213557)"
+Gardiner TS       (T),Steves Lane,,Gardiner,NY,12525,Ulster,3,9142559675,Town of Gardiner,Municipal,Transfer station - registration,[56R03],Yes,570340,4616194,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Glass;Commingled Plastics;Commingled Paper & Containers;Corrugated Cardboard,Registration,56R03,,,
+Marbletown TS (T),Canal Road,,High Falls,NY,12440,Ulster,3,8456879891,Town of Marbletown,Municipal,Transfer station - registration,[56R10],Yes,571505,4630207,,MSW (Residential/Institutional & Commercial);White Goods,Registration,56R10,,,
+UCRRA Ulster Transfer Station,999 Flatbush Road,,Kingston,NY,12401,Ulster,3,8453360600,Ulster County Resource Recovery Agency,County,Transfer station - permit,[56T05],Yes,585478,4647691,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Wood (Clean);Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Single Stream;Electronics;Waste Tires,Permit,3-5154-00125/00001,08/15/2012,08/17/2019,"999 Flatbush Road
+Kingston, NY 12401
+(41.974711, -73.971089)"
+Waste Management - Ulster Transfer Station,264 Old Flatbush Rd,,Kingston,NY,12401,Ulster,3,,Waste Management of NY,Private,Transfer station - permit,[56T06],Yes,584443,4644163,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Single Stream,Permit,3-5154-00081/00003,11/29/2018,11/28/2023,"264 Old Flatbush Rd
+Kingston, NY 12401
+(41.952777, -73.976381)"
+Marlborough TS (T),Bailey Gap Road,,Milton,NY,12547,Ulster,3,8457952314,Town of Marlborough,Municipal,Transfer station - registration,[56R05],Yes,583246,4615829,,MSW (Residential/Institutional & Commercial);Sewage Treatment Plant Sludge;Commingled Paper & Containers;Corrugated Cardboard;Glass,Registration,56R05,,,
+Plattekill TS (T),21-41 Venuto Road,,Modena,NY,12548,Ulster,3,8458836064,Town of Plattekill,Municipal,Transfer station - registration,[56R07],Yes,576341,4611736,,Metals (Ferrous & Non-Ferrous);MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Corrugated Cardboard;Junk Mail;Commingled Plastics;Electronics,Registration,56R07,,,"21 41 Venuto Road
+Modena, NY 12548
+(41.65281, -74.081887)"
+UCRRA New Paltz Transfer Station,1 Clearwater Rd,,New Paltz,NY,12561,Ulster,3,8452556358,Public Benefit corp,County,Transfer station - permit,[56T03],Yes,578097,4626823,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Sewage Treatment Plant Sludge;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Electronics;Waste Tires,Permit,3-5138-00089/00001,07/30/2009,07/29/2019,"1 Clearwater Rd
+New Paltz, NY 12561
+(41.791336, -74.068636)"
+Olive TS (T),Beaverkill Road,,Olive,NY,12461,Ulster,3,9146578177,Town of Olive,Municipal,Transfer station - registration,[56R06],Yes,566288,4643165,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Glass;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Electronics,Registration,56R06,,,
+Hurley TS          (T),1043 Dug Hill Road,,West Hurley,NY,12491,Ulster,3,8453384067,Town of Hurley,Municipal,Transfer station - registration,[56R04],Yes,574159,4642623,,MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Wood (Brush/ Branches/ Trees/ Stumps);Yard Waste;Corrugated Cardboard;Glass;Metals (Ferrous & Non-Ferrous);Electronics;Waste Oil (Other),Registration,56R04,,,"1043 Dug Hill Road
+West Hurley, NY 12491
+(41.967836, -74.106776)"
+Thurman Transfer Station,1 Erving Baker Road,,Athol,NY,12810,Warren,5,5186239649,Town of Thurman,Municipal,Transfer station - registration,[57R10],Yes,586072,4821340,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Electronics,Registration,57M10,06/20/1996,,"1 Erving Baker Road
+Athol, NY 12810
+(43.516137, -73.900635)"
+Stony Creek Transfer & Recycling Center,Hill Road,,Stony Creek,NY,12878,Warren,5,5186965602,Town of Stony Creek,Municipal,Transfer station - registration,[57R11],Yes,589351,4806501,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous);Corrugated Cardboard;Magazines;Newspaper;Commingled Plastics,Registration,57R11,,,
+Warrensburg Transfer Station,4067 Dump Rd,,Warrensburg,NY,12885,Warren,5,5186233096,Town of Warrensburg,Municipal,Transfer station - registration,[57R07],Yes,597799,4817645,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Corrugated Cardboard;Magazines;Newspaper;Commingled Paper & Containers;White Goods;Metals (Ferrous & Non-Ferrous),Registration,57R07,,,"4067 Dump Rd
+Warrensburg, NY 12885"
+ALPCO Recycling Facility,846 Macedon Center Road,,Macedon,NY,14502,Wayne,8,3159868900,Alton Plumb,Private,Transfer station - permit,[59R03],Yes,309800,4774100,4.3 - Utilization of Digital Orthophoto Quads,MSW (Residential/Institutional & Commercial),Permit,8-5430-00061/00001,07/31/2017,07/30/2020,"846 Macedon Center Road
+Macedon, NY 14502
+(43.094251, -77.336345)"
+K&D Disposal Inc,5076 Route 31,,Newark,NY,14513,Wayne,8,3155973889,K&D Disposal Inc,Private,Transfer station - registration,[59R14],Yes,322683,4767990,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Corrugated Cardboard,Registration,59R14,07/20/2001,,"5076 Route
+Newark, NY 14513"
+Ontario TS,6449 Furnace Road,,Ontario,NY,14519,Wayne,8,3155248111,Town of Ontario,Municipal,Transfer station - registration,[59R12],Yes,315130,4789196,,Commingled Paper & Containers;MSW (Residential/Institutional & Commercial);Waste Tires;Construction & Demolition Debris,Registration,59R12,01/27/1997,,"6449 Furnace Road
+Ontario, NY 14519
+(43.23192, -77.276637)"
+Savannah (T) Rural TS,1717 N. Main Street,Town Highway Barn,Savannah,NY,13146,Wayne,8,3153652811,Town of Savannah,Municipal,Transfer station - registration,[59R07],Yes,356617,4770378,,One Day Annual Bulk Cleanup;Waste Tires;Metals (Ferrous & Non-Ferrous);MSW (Residential/Institutional & Commercial);Electronics,Registration,59R07,08/07/1998,,"1717 N Main Street
+Savannah, NY 13146
+(43.072325, -76.760415)"
+Butler TS (T),4639 Butler Center Road,,Wolcott,NY,14590,Wayne,8,3155942719,Town of Butler,Municipal,Transfer station - registration,[59R09],Yes,355880,4780790,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Waste Tires,Registration,59R09,03/03/1994,,"4639 Butler Center Road
+Wolcott, NY 14590
+(43.172112, -76.76974)"
+Huron (T) Transfer,10880 Lummisville Road,,Wolcott,NY,14590,Wayne,8,3155942321,Town of Huron,Municipal,Transfer station - registration,[59R17],Yes,348340,4788700,4.2 - Utilization of GIS and existing spatial data,One Day Annual Bulk Cleanup;Waste Tires;MSW (Residential/Institutional & Commercial);Sludge (Industrial);Metals (Ferrous & Non-Ferrous);Electronics,Registration,59R17,05/03/2013,,"10880 Lummisville Road
+Wolcott, NY 14590
+(43.235988, -76.86775)"
+Fred Cook,3226 Albany Post Road,,Buchanan,NY,10511,Westchester,3,9147393300,Brian Cook,Private,Transfer station - permit,[60T01],Yes,589126,4569116,,,Permit,3-5522-00288/00001,12/18/2012,12/18/2017,"3226 Albany Post Road
+Buchanan, NY 10511
+(41.267449, -73.936295)"
+Westchester County Northern Tier Recyclables TS,167 Roa Hook Road,,Cortlandt,NY,10567,Westchester,3,9147370100,Westchester County,County,Transfer station - registration,[60R23],Yes,588160,4572422,4.3 - Utilization of Digital Orthophoto Quads,Yard Waste;Commingled Paper & Containers,,,,,"167 Roa Hook Road
+Cortlandt, NY 10567
+(41.298036, -73.948388)"
+Larchmont/Mamaroneck Joint Garbage Disposal Commission,41 Maxwell Avenue(location),740 West Boston Post Road(mailing),Mamaroneck,NY,10543,Westchester,3,9143817810,Town of Mamaroneck,Municipal,Transfer station - registration,[60R36],Yes,604102,4531983,,,Registration,60R36,,,"41 Maxwell Avenue
+Mamaroneck, NY 10543
+(40.93229, -73.763574)"
+Mamaroneck TS (V),313 Fayette Avenue,,Mamaroneck,NY,10543-0369,Westchester,3,9147777745,Village of Mamaroneck,Municipal,Transfer station - registration,[60R05],Yes,605359,4533164,,Yard Waste,Registration,60R05,,,"313 Fayette Avenue
+Mamaroneck, NY 10543-0369
+(40.952271, -73.742738)"
+Recycling Industries Transfer Station LLC (Covanta)(AWTS),306 Fayette Avenue,,Mamaroneck,NY,10543,Westchester,3,9733455339,Covanta,Private,Transfer station - permit,[60T13],Yes,605395,4533139,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Metals (Ferrous & Non-Ferrous),Permit,3-5532-00104/00005,01/04/2013,01/04/2018,"306 Fayette Avenue
+Mamaroneck, NY 10543
+(40.952424, -73.742573)"
+Westchester County South Columbus Ave TS,10 Kimball Place,Off So Columbus Ave,Mt. Vernon,NY,10550,Westchester,3,9146373067,Westchester County,County,Transfer station - permit,[60T19],Yes,599119,4528148,,MSW (Residential/Institutional & Commercial),Permit,3-5508-00140/00001-0,12/20/2007,12/19/2017,"10 Kimball Place
+Mt Vernon, NY 10550
+(40.89908, -73.820868)"
+New Rochelle Leaf TS,85 Beechwood Ave,,New Rochelle,NY,10801,Westchester,3,9146542129,City of New Rochelle,Municipal,Transfer station - registration,[60R19],Yes,603779,4529858,,Yard Waste;Wood (Brush/ Branches/ Trees/ Stumps),Registration,60R19,,,"85 Beechwood Ave
+New Rochelle, NY 10801
+(40.905658, -73.792286)"
+Rye (C) DPW,141 Oakland Beach Avenue,,Rye,NY,10580,Westchester,3,9149677464,City of Rye,Municipal,Transfer station - registration,[60R13],Yes,612492,4535939,,Yard Waste;Wood (Brush/ Branches/ Trees/ Stumps),Registration,60R13,,,"141 Oakland Beach Avenue
+Rye, NY 10580
+(40.963064, -73.69285)"
+Somers Sanitation LLC,241 Route 100,,Somers,NY,10589,Westchester,3,9142327585,Lawrence Bria,Private,Transfer station - permit,[60T26],Yes,609133,4574000,,MSW (Residential/Institutional & Commercial);Construction & Demolition Debris;Commingled Paper & Containers;Single Stream;Yard Waste;Newspaper;Corrugated Cardboard;Metals (Ferrous & Non-Ferrous);Commingled Plastics;Concrete;Waste Tires,Permit,3-5552-00040-00005,05/24/2017,05/23/2022,"241 Route
+Somers, NY 10589"
+Westchester County Brockway Place Transfer Station,41 Brockway Place,,White Plains,NY,10601,Westchester,3,9143286536,Westchester County,County,Transfer station - permit,[60T16],Yes,604346,4543728,,MSW (Residential/Institutional & Commercial),Permit,3-5517-00130-00003,12/20/2007,12/19/2017,"41 Brockway Place
+White Plains, NY 10601
+(41.035445, -73.754604)"
+A-1 Compaction (Waste Management of NY),325 Yonkers Ave.,,Yonkers,NY,10701,Westchester,3,9144232160,Waste Management of NY,Private,Transfer station - permit,[60T12],Yes,594662,4531901,,Construction & Demolition Debris;MSW (Residential/Institutional & Commercial);Commingled Paper & Containers;Single Stream;Metals (Ferrous & Non-Ferrous);Yard Waste;Clean Fill,Permit,3-5518-00407/00011,01/20/2010,09/30/2014,"325 Yonkers Ave
+Yonkers, NY 10701
+(40.933259, -73.872558)"
+Westchester County Thruway Transfer Station,1A Stew Leonard Drive,,Yonkers,NY,10710,Westchester,3,9144230420,Westchester County,County,Transfer station - permit,[60T11],Yes,595975,4535619,,MSW (Residential/Institutional & Commercial),Permit,3-5518-00440/00001,12/20/2007,12/19/2017,"1A Stew Leonard Drive
+Yonkers, NY 10710
+(40.976114, -73.863369)"
+Yonkers Yard Waste Transfer Station,610 Nepperhan Avenue,,Yonkers,NY,10701,Westchester,3,9143376269,City of Yonkers,Municipal,Transfer station - registration,[60R37],Yes,594165,4533443,,,Registration,60R37,07/16/2014,,"610 Nepperhan Avenue
+Yonkers, NY 10701
+(40.947018, -73.881924)"
+Cardinal Disposal,635 Shannon Corners Road,,Dundee,NY,14837,Yates,8,6072437568,Joseph E Gibson,Private,Transfer station - registration,[62R03],Yes,339889,4711778,4.3 - Utilization of Digital Orthophoto Quads,Construction & Demolition Debris;Sludge (Industrial);MSW (Residential/Institutional & Commercial);Waste Tires;Single Stream,Registration,62R03,,,"635 Shannon Corners Road
+Dundee, NY 14837
+(42.544482, -76.949534)"
+Potter Transfer Station,1250 Phelps Road (DPW Garage),1226 Phelps Road (Town Offices),Middlesex,NY,14507,Yates,8,6072437568,Joseph E. Gibson,Private,Transfer station - registration,[62R06],Yes,319250,4730368,,MSW (Residential/Institutional & Commercial);Single Stream,Registration,62R06,12/27/2006,,"1250 Phelps Road
+Middlesex, NY 14507
+(42.704257, -77.211984)"
